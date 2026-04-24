@@ -32,6 +32,6 @@
     "name": "Hastighet",
     "unit": "km/h",
     "description": "Klockslaget som hastighet",
-    "enabled": false
+    "enabled": true
   }
 ]

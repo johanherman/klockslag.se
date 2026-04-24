@@ -1,0 +1,212 @@
+{
+  "07:10": {
+    "label": "710 km/h",
+    "title": "Tu-95 Bear, marschfart",
+    "description": "Ungefär marschfarten för det sovjetiska strategibombplanet Tu-95 Bear. Maskinen drivs av turbopropmotorer och har flugit oavbrutet sedan 1956.",
+    "fun_fact": "Tu-95 har världens snabbaste propellrar i flygbruk. Propellerbladens spetsar överskrider ljudhastigheten redan vid normal marschfart.",
+    "invite_text": "Möte 07:10? Samma fart som en sovjetisk Tu-95 Bear i marsch."
+  },
+  "08:05": {
+    "label": "805 km/h",
+    "title": "Lockheed U-2 Dragon Lady",
+    "description": "Toppfarten för spaningsflygplanet U-2 på 21 000 meters höjd. Konstruerat 1955 för CIA och används fortfarande i aktiv tjänst.",
+    "fun_fact": "U-2 flyger så nära sin stallfart att piloten bara har ett par knop marginal mellan maxfart och stall. Flygningen kallas därför för hörngräns.",
+    "invite_text": "Möte 08:05? Toppfarten för en U-2 Dragon Lady i stratosfären."
+  },
+  "08:28": {
+    "label": "828 km/h",
+    "title": "Airbus A320 i marsch",
+    "description": "Marschfarten för Airbus A320, Mach 0,78 på 11 000 meters höjd. Europas mest sålda kommersiella flygplan sedan introduktionen 1988.",
+    "fun_fact": "A320 var det första passagerarplanet med fly-by-wire i serieproduktion. Piloterna styr via datorsignaler, inte kablar direkt till rodret.",
+    "invite_text": "Möte 08:28? Marschfart för en Airbus A320 på kryss."
+  },
+  "08:52": {
+    "label": "852 km/h",
+    "title": "Jordens rotation vid Stockholms breddgrad",
+    "description": "På 59,33 grader norr, Stockholms latitud, rör sig jordytan 852 km/h i öster-riktning på grund av jordens rotation. Vi märker ingenting tack vare gravitationen.",
+    "fun_fact": "Vid ekvatorn rör sig jordytan med 1669 km/h. Vid polerna står marken stilla. Stockholm ligger halvvägs mellan.",
+    "invite_text": "Möte 08:52? Farten som marken under oss rör sig åt öster."
+  },
+  "09:03": {
+    "label": "903 km/h",
+    "title": "Boeing 787 Dreamliner i marsch",
+    "description": "Marschfart Mach 0,85 för Boeing 787 Dreamliner på 12 000 meters höjd. Samma fart har också Airbus A350 och A380 i normalt kryss.",
+    "fun_fact": "Dreamliner är byggt till hälften av kolfiberkomposit, första kommersiella planet där metall inte dominerar stommen.",
+    "invite_text": "Möte 09:03? Marschfart för Dreamliner på kryss."
+  },
+  "09:15": {
+    "label": "915 km/h",
+    "title": "Boeing 747 Jumbo Jet",
+    "description": "Marschfart för Boeing 747 på 11 000 meters höjd. Jumbojeten introducerades 1970 och transformerade interkontinentalt flygresande över en natt.",
+    "fun_fact": "En 747 har ungefär 6 miljoner delar. En tredjedel av dem är fästelement: skruvar, nitar och muttrar.",
+    "invite_text": "Möte 09:15? Marschfart för en Boeing 747 Jumbo Jet."
+  },
+  "09:25": {
+    "label": "925 km/h",
+    "title": "Tu-95 Bear, maxfart",
+    "description": "Toppfarten för Tu-95 Bear, fortfarande i tjänst i Ryska flygvapnet. Planet är äldre än de flesta av sina besättningar.",
+    "fun_fact": "Tu-95:s buller kan uppfattas av undervattensmikrofoner i Atlanten. Amerikanska ubåtar tränar på att identifiera planet bara på motorljudet ovan.",
+    "invite_text": "Möte 09:25? Toppfarten för en Tu-95 Bear."
+  },
+  "09:36": {
+    "label": "936 km/h",
+    "title": ".45 ACP mynningshastighet",
+    "description": "Typisk mynningshastighet för en .45 ACP-kula, John M. Brownings patronkonstruktion från 1905. Mer massa än en 9 mm ger samma energi men lägre fart.",
+    "fun_fact": "USA:s militär använde .45 ACP som standardkaliber från 1911 till 1985. Patronen valdes för sin stopverkan mot filippinska motståndsmän under 1900-talets början.",
+    "invite_text": "Möte 09:36? Mynningshastigheten för en .45 ACP-kula."
+  },
+  "09:56": {
+    "label": "956 km/h",
+    "title": "Boeing 787 max operativ fart",
+    "description": "Boeing 787 maximal operativ hastighet, Mach 0,90. Över detta börjar luftflödet över vingen bli okontrollerbart och planet riskerar skada.",
+    "fun_fact": "Mach 0,90 är gränsen där ljudvågor börjar bildas vid vingytan. Att passera vidare kräver speciell vingform eller acceptans av större energiförbrukning.",
+    "invite_text": "Möte 09:56? Boeing 787:s absoluta maxfart på kryss."
+  },
+  "10:14": {
+    "label": "1014 km/h",
+    "title": "Blue Flame, landfartrekord 1970",
+    "description": "Gary Gabelichs rekord med raketdrivna Blue Flame på Bonneville Salt Flats 1970. Rekordet höll i 13 år tills Thrust2 körde om 1983.",
+    "fun_fact": "Blue Flames motor drevs av flytande naturgas och väteperoxid. Bränsletanken hade 4 sekunders full effekt innan den var tömd.",
+    "invite_text": "Möte 10:14? Farten för raketdrivna Blue Flame 1970."
+  },
+  "10:28": {
+    "label": "1028 km/h",
+    "title": "BAE Hawk, maxfart",
+    "description": "Toppfart för det brittiska jetträningsplanet BAE Hawk. Används av Royal Air Force för utbildning av stridspiloter sedan 1976.",
+    "fun_fact": "Red Arrows, brittiska flygvapnets uppvisningsteam, flyger Hawks i alla sina uppvisningar. Laget har uppträtt inför över 350 miljoner åskådare.",
+    "invite_text": "Möte 10:28? Toppfart för en BAE Hawk."
+  },
+  "10:59": {
+    "label": "1062 km/h",
+    "title": "Mach 1 på 11 000 meters höjd",
+    "description": "Ljudhastigheten på 11 000 meters höjd är 1062 km/h, kallare och tunnare luft där. Moderna passagerarplan flyger Mach 0,85, fortfarande under ljudbarriären.",
+    "fun_fact": "Ljud går fortare i varm luft. Vid havsnivå och 20 °C är ljudhastigheten 1235 km/h. På hög höjd blir det alltså långsammare.",
+    "invite_text": "Möte 10:59? Mach 1 på kryssaltitud."
+  },
+  "11:10": {
+    "label": "1110 km/h",
+    "title": "Saab Lansen, maxfart",
+    "description": "Toppfart för Saab J32 Lansen, svenskt allvädersjaktplan från 1952. Lansen var det första svenska jetplanet i serie som utrustades med svepvingar.",
+    "fun_fact": "Saab Lansen förblev i tjänst i Flygvapnet till 1997, en driftstid på 45 år från första leverans.",
+    "invite_text": "Möte 11:10? Toppfart för en Saab J32 Lansen."
+  },
+  "11:27": {
+    "label": "1127 km/h",
+    "title": "Chuck Yeager bryter ljudvallen, 1947",
+    "description": "Den 14 oktober 1947 flög Chuck Yeager Bell X-1 genom ljudbarriären på 13 000 meters höjd. Mach 1,06 motsvarade 1127 km/h där uppe.",
+    "fun_fact": "Yeager hade brutit två revben på en häst två dagar tidigare. Han sa inget, rusade till flyguppdraget och slog rekordet med bruten rygg.",
+    "invite_text": "Möte 11:27? Farten där Yeager bröt ljudvallen 1947."
+  },
+  "11:35": {
+    "label": "1135 km/h",
+    "title": "Exocet, anti-skeppsrobot",
+    "description": "Marschfart för franska anti-skeppsroboten Exocet, utvecklad på 1960-talet. Används i marinen av flera länder och är mest känd från Falklandskriget 1982.",
+    "fun_fact": "Exocet flyger tre meter över havsytan för att undgå radarupptäckt. HMS Sheffield sänktes av en Exocet 1982, första engelska fartyget sänkt av en fiendes missil sedan andra världskriget.",
+    "invite_text": "Möte 11:35? Farten för en Exocet anti-skeppsrobot."
+  },
+  "11:59": {
+    "label": "1180 km/h",
+    "title": "Jordens rotation vid 45°N",
+    "description": "På 45 graders norr, ungefär Bordeaux och Lyon, rör sig jordytan 1180 km/h. Farten avtar med kosinus av latituden när vi går mot polerna.",
+    "fun_fact": "Raketer skjuts helst upp nära ekvatorn eftersom jordytan där rör sig snabbare. Kennedys Cape Canaveral ligger medvetet långt söderut för att utnyttja effekten.",
+    "invite_text": "Möte 11:59? Jordens rotation vid Lyon, Bordeaux och Milanos breddgrad."
+  },
+  "12:00": {
+    "label": "1192 km/h",
+    "title": "Ljudhastighet vid 0 °C",
+    "description": "Ljudets fart genom luft vid 0 grader Celsius. Nollpunkten för alla vintermornar då ljudet bär särskilt långt i den kalla stillheten.",
+    "fun_fact": "Ljudet går cirka 0,6 m/s snabbare för varje grad temperaturen stiger. Skillnaden mellan vinter och sommar är därför hörbar om du lyssnar på långt avstånd.",
+    "invite_text": "Möte 12:00? Ljudhastigheten en normal svensk höstmorgon."
+  },
+  "12:25": {
+    "label": "1225 km/h",
+    "title": "Ljudhastighet vid 15 °C",
+    "description": "Ljudhastigheten vid 15 grader Celsius, den internationella standardatmosfärens referens. Allt aerodynamiskt är kalibrerat mot denna siffra.",
+    "fun_fact": "Mach 1 är inte en konstant fart utan en kvot. Mach 1 vid 15 °C är 1225 km/h, vid -56 °C på kryssaltitud är samma Mach 1 bara 1062 km/h.",
+    "invite_text": "Möte 12:25? Ljudhastigheten en ljuv försommardag."
+  },
+  "12:28": {
+    "label": "1228 km/h",
+    "title": "ThrustSSC, landhastighetsrekord 1997",
+    "description": "Andy Greens rekord i raketdrivna ThrustSSC på Black Rock Desert den 15 oktober 1997. Första bil som överskred ljudhastigheten på marken.",
+    "fun_fact": "Andy Green hörde ljudknallen innan han körde igenom den. Chockvågen passerade hans öron före han själv passerade den i bilen.",
+    "invite_text": "Möte 12:28? Andy Greens supersoniska landrekord."
+  },
+  "12:35": {
+    "label": "1235 km/h",
+    "title": "Ljudhastighet vid 20 °C",
+    "description": "Ljudets fart genom luft vid 20 grader Celsius. Referensvärde i klassiska fysiklaborationer och för sommarmätningar av akustik.",
+    "fun_fact": "Ljudhastigheten är oberoende av lufttryck men helt beroende av temperatur. Vid rumstemperatur hör du alltid ljudet lika snabbt, oavsett om du är vid havsnivå eller på fjäll.",
+    "invite_text": "Möte 12:35? Ljudhastigheten vid en behaglig rumstemperatur."
+  },
+  "12:46": {
+    "label": "1246 km/h",
+    "title": "9 mm Parabellum, mynning",
+    "description": "Typisk mynningshastighet för en 9 mm Parabellum-kula, världens mest utbredda pistolkaliber. Konstruerad av Georg Luger 1902 för den tyska armén.",
+    "fun_fact": "Parabellum kommer från latinets ordspråk si vis pacem, para bellum: vill du ha fred, rusta för krig. Patronen används av över 60 länders poliser och militärer.",
+    "invite_text": "Möte 12:46? Mynningshastigheten för en 9 mm Parabellum."
+  },
+  "13:35": {
+    "label": "1335 km/h",
+    "title": "Rockwell B-1B Lancer, låghöjdsmax",
+    "description": "Maxfart för bombflygplanet B-1B Lancer på låg höjd. Konstruerat för att komma in under sovjetisk radar under kalla krigets sista år.",
+    "fun_fact": "B-1B har svepvingar som viks bakåt för hög fart, framåt för långsam fart. Systemet är dyrt men ger planet enorm flexibilitet i uppdrag.",
+    "invite_text": "Möte 13:35? B-1B Lancer i låghöjdsanflygning."
+  },
+  "13:58": {
+    "label": "1358 km/h",
+    "title": "Felix Baumgartners fritt fall, 2012",
+    "description": "Maxfart för Felix Baumgartners stratosfärhopp den 14 oktober 2012, från 38 969 meters höjd. Första människan att bryta ljudvallen i fritt fall.",
+    "fun_fact": "Baumgartner föll i 4 minuter och 19 sekunder innan fallskärmen öppnades. Han valde datum exakt 65 år efter Chuck Yeagers ljudbarriärsbrott.",
+    "invite_text": "Möte 13:58? Farten Baumgartner föll från stratosfären."
+  },
+  "14:46": {
+    "label": "1446 km/h",
+    "title": "Jordens rotation vid 30°N",
+    "description": "På 30 graders norr, ungefär New Orleans, Kairo och Shanghai, rör sig jordytan 1446 km/h. Snabbare ju närmre ekvatorn vi kommer.",
+    "fun_fact": "Människor i Kairo rör sig nästan dubbelt så fort som människor i Stockholm på grund av jordens rotation. Ingen märker något av den skillnaden.",
+    "invite_text": "Möte 14:46? Jordens rotation vid Kairos breddgrad."
+  },
+  "15:44": {
+    "label": "1544 km/h",
+    "title": "Mach 1,25 vid havsnivå",
+    "description": "1,25 gånger ljudhastigheten vid 20 grader. Typiskt lågaltituds-maxfart för flera moderna stridsflygplan på kort dykning.",
+    "fun_fact": "Att flyga supersoniskt över land är förbjudet i större delen av världen. Ljudbommen som bildas när ett plan passerar Mach 1 kan spräcka fönsterrutor på marken.",
+    "invite_text": "Möte 15:44? Stridsflygplan i låg supersonisk dykning."
+  },
+  "16:00": {
+    "label": "1600 km/h",
+    "title": "Bloodhound LSR, planerat mål",
+    "description": "Bloodhound Land Speed Record är ett brittiskt projekt som siktar mot 1600 km/h på en sjöbotten i Sydafrika. Målet är att bryta Andy Greens rekord från 1997.",
+    "fun_fact": "Bloodhound drivs av en Rolls-Royce EJ200-motor från en Eurofighter Typhoon, kombinerad med en raketmotor. Vid full effekt förbrukar fordonet 1800 kilo bränsle per minut.",
+    "invite_text": "Möte 16:00? Målet för nästa landhastighetsrekord."
+  },
+  "16:59": {
+    "label": "1669 km/h",
+    "title": "Jordens rotation vid ekvatorn",
+    "description": "Vid ekvatorn rör sig jordytan 1669 km/h i österled. Det är nära ljudhastigheten vid samma temperatur, men vi märker ingenting eftersom allt omkring oss rör sig lika fort.",
+    "fun_fact": "Om jorden slutade rotera omedelbart skulle atmosfären fortsätta röra sig. Vi skulle utsättas för vindar med orkan-styrka i flera år innan jämvikt uppnås.",
+    "invite_text": "Möte 16:59? Jordens rotation vid ekvatorn."
+  },
+  "17:00": {
+    "label": "1700 km/h",
+    "title": "SEPECAT Jaguar, maxfart",
+    "description": "Toppfart för franskt-brittiska attackflygplanet SEPECAT Jaguar. Använt av Royal Air Force och Armée de l'Air från 1973 till 2007.",
+    "fun_fact": "Jaguar var resultatet av ett av de första större europeiska försvarsamarbetena. Teknisk integration mellan brittiska och franska ingenjörer blev mall för senare projekt som Eurofighter.",
+    "invite_text": "Möte 17:00? Toppfart för en SEPECAT Jaguar."
+  },
+  "19:12": {
+    "label": "1912 km/h",
+    "title": "Dassault Rafale, maxfart",
+    "description": "Toppfart Mach 1,8 för franska Rafale på 11 000 meters höjd. Bärs på Charles de Gaulle, Frankrikes enda hangarfartyg.",
+    "fun_fact": "Rafale är det enda europeiska stridsflygplanet som kan lyfta från hangarfartyg. Planet måste lyftas från däcket med katapult eftersom det är för tungt för rullstart.",
+    "invite_text": "Möte 19:12? Toppfart för en Dassault Rafale."
+  },
+  "19:30": {
+    "label": "1930 km/h",
+    "title": "F-35 Lightning II, maxfart",
+    "description": "Toppfart Mach 1,6 för Lockheed Martins stridsflygplan F-35. Första gången planet levererades 2015, och det är världens dyraste försvarsprojekt genom tiderna.",
+    "fun_fact": "F-35-programmet kostar hittills över 17 000 miljarder kronor. Det är mer än Sveriges totala BNP under tre år.",
+    "invite_text": "Möte 19:30? Toppfart för ett F-35 Lightning II."
+  }
+}
