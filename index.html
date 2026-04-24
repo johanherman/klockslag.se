@@ -259,6 +259,15 @@
       position: relative;
       overflow: hidden;
     }
+    .result-card::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      width: 3px;
+      background: linear-gradient(180deg, #2b8fd9, var(--blue-dark));
+    }
 
     .result-header { display: flex; align-items: center; gap: 1.1rem; margin-bottom: 1rem; }
     .result-time-info { display: flex; flex-direction: column; gap: 0.25rem; }
