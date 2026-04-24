@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>klockslag.se</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #1a1209;
+      --card: #231910;
+      --card2: #2d2214;
+      --gold: #8b6914;
+      --gold-bright: #c9a227;
+      --gold-dim: #5a4209;
+      --text: #e8d5a3;
+      --text-muted: #9a8a6a;
+      --border: #3d2e18;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'EB Garamond', Georgia, serif;
+      font-size: 1.05rem;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    h1, h2, h3, h4 { font-family: 'Cormorant Garamond', Georgia, serif; }
+
+    .container { max-width: 860px; margin: 0 auto; padding: 0 1.2rem; }
+
+    /* ── Header ── */
+    header {
+      text-align: center;
+      padding: 3rem 1rem 2.5rem;
+      border-bottom: 1px solid var(--border);
+    }
+    header h1 {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: var(--gold-bright);
+      letter-spacing: 0.04em;
+      margin-bottom: 1.8rem;
+    }
+
+    .hero-text {
+      max-width: 600px;
+      margin: 0 auto 2rem;
+      text-align: left;
+    }
+    .hero-text p {
+      font-size: 1.1rem;
+      color: var(--text);
+      margin-bottom: 0.6rem;
+      line-height: 1.5;
+    }
+    .hero-text p:last-child { margin-bottom: 0; }
+    .hero-text strong { color: var(--gold-bright); }
+
+    .cta-section {
+      max-width: 600px;
+      margin: 0 auto 2rem;
+      text-align: left;
+    }
+    .cta-section p {
+      font-size: 1rem;
+      color: var(--text-muted);
+      font-style: italic;
+      margin-bottom: 1.2rem;
+      line-height: 1.5;
+    }
+
+    .cta-btn {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.15rem;
+      font-weight: 600;
+      background: var(--gold-dim);
+      border: 1px solid var(--gold-bright);
+      color: var(--gold-bright);
+      padding: 0.6rem 1.6rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+      letter-spacing: 0.02em;
+    }
+    .cta-btn:hover { background: var(--gold); color: var(--bg); }
+
+    /* ── Chips ── */
+    .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+
+    .chip {
+      font-family: 'EB Garamond', serif;
+      font-size: 0.95rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 0.35rem 0.9rem;
+      border-radius: 20px;
+      cursor: pointer;
+      transition: all 0.15s;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .chip:hover { border-color: var(--gold); color: var(--text); }
+    .chip.active { background: var(--gold-dim); border-color: var(--gold-bright); color: var(--gold-bright); }
+    .chip.disabled { opacity: 0.45; cursor: default; }
+    .chip.disabled:hover { border-color: var(--border); color: var(--text-muted); }
+
+    .badge {
+      font-size: 0.65rem;
+      background: var(--gold-dim);
+      color: var(--gold-bright);
+      padding: 0.1rem 0.4rem;
+      border-radius: 10px;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    /* ── Category nav ── */
+    #category-nav { padding: 1.2rem 0; border-bottom: 1px solid var(--border); }
+
+    /* ── Tabs ── */
+    .tab-bar { display: flex; border-bottom: 1px solid var(--border); }
+
+    .tab-btn {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.15rem;
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      color: var(--text-muted);
+      padding: 0.9rem 1.8rem;
+      cursor: pointer;
+      transition: all 0.15s;
+      margin-bottom: -1px;
+    }
+    .tab-btn:hover { color: var(--text); }
+    .tab-btn.active { color: var(--gold-bright); border-bottom-color: var(--gold-bright); }
+
+    .tab-content { display: none; padding: 2rem 0; }
+    .tab-content.active { display: block; }
+
+    /* ── Just nu ── */
+    .justnow-layout {
+      display: flex;
+      gap: 2.5rem;
+      align-items: flex-start;
+    }
+
+    .clock-wrapper {
+      flex-shrink: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.8rem;
+    }
+
+    #main-clock { filter: drop-shadow(0 0 14px rgba(201,162,39,0.2)); }
+
+    .digital-time {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.4rem;
+      color: var(--gold-bright);
+      letter-spacing: 0.1em;
+    }
+
+    .interpretation {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.2rem;
+      color: var(--text-muted);
+      font-style: italic;
+    }
+
+    .event-card { flex: 1; min-width: 0; }
+
+    .event-card h2 {
+      font-size: 1.8rem;
+      color: var(--gold-bright);
+      margin-bottom: 0.75rem;
+      line-height: 1.2;
+    }
+    .event-card p { margin-bottom: 0.75rem; }
+
+    .fun-fact {
+      border-left: 2px solid var(--gold);
+      padding-left: 0.9rem;
+      color: var(--text-muted) !important;
+      font-style: italic;
+    }
+
+    .placeholder { color: var(--text-muted); font-style: italic; }
+
+    /* ── Möteskallelse ── */
+    #invite-section { display: flex; flex-direction: column; gap: 1.5rem; }
+
+    .section-label {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 0.85rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--gold);
+      margin-bottom: 0.5rem;
+    }
+
+    .custom-theme-row { display: flex; gap: 0.5rem; }
+
+    .custom-theme-row input {
+      flex: 1;
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-family: 'EB Garamond', serif;
+      font-size: 1rem;
+      padding: 0.45rem 0.9rem;
+      border-radius: 4px;
+      outline: none;
+    }
+    .custom-theme-row input:focus { border-color: var(--gold); }
+    .custom-theme-row input::placeholder { color: var(--text-muted); }
+
+    .btn {
+      font-family: 'EB Garamond', serif;
+      font-size: 1rem;
+      background: var(--gold-dim);
+      border: 1px solid var(--gold);
+      color: var(--gold-bright);
+      padding: 0.45rem 1.2rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+      white-space: nowrap;
+    }
+    .btn:hover { background: var(--gold); color: var(--bg); }
+
+    /* ── Invite cards ── */
+    #invite-results { display: flex; flex-direction: column; gap: 1rem; }
+
+    .invite-card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1.2rem 1.4rem;
+      transition: border-color 0.15s;
+    }
+    .invite-card:hover { border-color: var(--gold); }
+
+    .card-header { display: flex; align-items: center; gap: 1rem; margin-bottom: 0.75rem; }
+
+    .card-time-info { display: flex; flex-direction: column; }
+
+    .card-time {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.8rem;
+      color: var(--gold-bright);
+      line-height: 1;
+    }
+    .card-year { font-size: 0.9rem; color: var(--text-muted); font-style: italic; }
+    .card-title { font-size: 1.2rem; margin-bottom: 0.5rem; }
+    .card-desc { font-size: 0.95rem; color: var(--text-muted); margin-bottom: 0.75rem; }
+
+    details.invite-details summary {
+      cursor: pointer;
+      color: var(--gold);
+      font-style: italic;
+      user-select: none;
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    details.invite-details summary::before {
+      content: '▸';
+      font-style: normal;
+      transition: transform 0.15s;
+    }
+    details.invite-details[open] summary::before { transform: rotate(90deg); }
+
+    .invite-text {
+      margin-top: 0.75rem;
+      padding: 0.75rem 1rem;
+      background: var(--card2);
+      border-left: 2px solid var(--gold);
+      font-style: italic;
+    }
+
+    .copy-btn {
+      margin-top: 0.5rem;
+      font-family: 'EB Garamond', serif;
+      font-size: 0.9rem;
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 0.3rem 0.8rem;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .copy-btn:hover { border-color: var(--gold); color: var(--gold-bright); }
+
+    /* ── Toast ── */
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      left: 50%;
+      background: var(--card2);
+      border: 1px solid var(--gold);
+      color: var(--text);
+      padding: 0.7rem 1.4rem;
+      border-radius: 4px;
+      z-index: 1000;
+      font-style: italic;
+      pointer-events: none;
+      animation: toastFade 2.5s ease forwards;
+    }
+    @keyframes toastFade {
+      0%   { opacity: 0; transform: translateX(-50%) translateY(8px); }
+      12%  { opacity: 1; transform: translateX(-50%) translateY(0); }
+      75%  { opacity: 1; transform: translateX(-50%) translateY(0); }
+      100% { opacity: 0; transform: translateX(-50%) translateY(0); }
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 580px) {
+      header h1 { font-size: 2rem; }
+      .justnow-layout { flex-direction: column; align-items: center; }
+      .event-card h2 { font-size: 1.4rem; }
+      .tab-btn { padding: 0.8rem 1.1rem; font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>klockslag.se</h1>
+      <div class="hero-text">
+        <p>Du har stirrat på sex överlappande Outlook-kalendrar. Det enda lediga fönstret är 10:00. Igen.</p>
+        <p>Det finns 1440 minuter per dygn. Ni använder 96 av dem.</p>
+        <p><strong>Varje minut betyder något. 10:00 gör det inte.</strong></p>
+      </div>
+      <div class="cta-section">
+        <p>Välj kategori. Få ett klockslag som faktiskt betyder något — eller åtminstone ger dig något att prata om de första 30 sekunderna medan alla väntar på att Pelle ska hitta länken.</p>
+        <button class="cta-btn" onclick="document.getElementById('tool').scrollIntoView({behavior:'smooth'})">Revolutionera min mötestid</button>
+      </div>
+    </div>
+  </header>
+
+  <div class="container" id="tool">
+    <nav id="category-nav" class="chips"></nav>
+
+    <div class="tab-bar">
+      <button class="tab-btn active" data-tab="justnow">Just nu</button>
+      <button class="tab-btn" data-tab="invite">Möteskallelse</button>
+    </div>
+
+    <!-- Just nu -->
+    <section id="justnow-content" class="tab-content active">
+      <div class="justnow-layout">
+        <div class="clock-wrapper">
+          <svg id="main-clock" viewBox="0 0 100 100" width="200" height="200">
+            <circle cx="50" cy="50" r="48" fill="#231910" stroke="#c9a227" stroke-width="1.5"/>
+            <g id="hour-marks"></g>
+            <g id="main-hour-hand" transform="rotate(0,50,50)">
+              <line x1="50" y1="50" x2="50" y2="26" stroke="#c9a227" stroke-width="4" stroke-linecap="round"/>
+            </g>
+            <g id="main-min-hand" transform="rotate(0,50,50)">
+              <line x1="50" y1="50" x2="50" y2="16" stroke="#c9a227" stroke-width="2.5" stroke-linecap="round"/>
+            </g>
+            <g id="main-sec-hand" transform="rotate(0,50,50)">
+              <line x1="50" y1="56" x2="50" y2="13" stroke="#c0392b" stroke-width="1.2" stroke-linecap="round"/>
+            </g>
+            <circle cx="50" cy="50" r="2.5" fill="#c9a227"/>
+          </svg>
+          <div class="digital-time" id="digital-time">--:--</div>
+          <div class="interpretation" id="interpretation"></div>
+        </div>
+
+        <div class="event-card" id="event-card">
+          <p class="placeholder">Hämtar fakta...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Möteskallelse -->
+    <section id="invite-content" class="tab-content">
+      <div id="invite-section">
+        <div>
+          <div class="section-label">Välj tema</div>
+          <div id="theme-chips" class="chips"></div>
+        </div>
+        <div>
+          <div class="section-label">Eget tema</div>
+          <div class="custom-theme-row">
+            <input type="text" id="custom-theme-input" placeholder="t.ex. Rymdfart, Vikingatiden...">
+            <button class="btn" id="search-btn">Sök</button>
+          </div>
+        </div>
+        <div id="invite-results"></div>
+      </div>
+    </section>
+  </div>
+
+  <script>
+    // ── State ──
+    let categories = [];
+    let activeCategory = 'historical';
+    let eventsCache = {};
+    let themesCache = {};
+    let lastMinute = -1;
+
+    // ── Boot ──
+    async function init() {
+      initClockMarks();
+      categories = await fetch('data/categories.json').then(r => r.json()).catch(() => []);
+      renderCategories();
+      renderThemeChips();
+      startClock();
+    }
+
+    // ── Data ──
+    async function loadEvents(catId) {
+      if (eventsCache[catId]) return eventsCache[catId];
+      try {
+        eventsCache[catId] = await fetch(`data/${catId}/events.json`).then(r => r.json());
+      } catch { eventsCache[catId] = {}; }
+      return eventsCache[catId];
+    }
+
+    async function loadThemes(catId) {
+      if (themesCache[catId]) return themesCache[catId];
+      try {
+        themesCache[catId] = await fetch(`data/${catId}/themes.json`).then(r => r.json());
+      } catch { themesCache[catId] = {}; }
+      return themesCache[catId];
+    }
+
+    // ── Categories ──
+    function renderCategories() {
+      document.getElementById('category-nav').innerHTML = categories.map(cat => {
+        const cls = ['chip', cat.id === activeCategory ? 'active' : '', !cat.enabled ? 'disabled' : ''].filter(Boolean).join(' ');
+        const badge = !cat.enabled ? '<span class="badge">Snart</span>' : '';
+        return `<button class="${cls}" data-cat="${cat.id}">${cat.name}${badge}</button>`;
+      }).join('');
+    }
+
+    // ── Clock ──
+    function initClockMarks() {
+      const g = document.getElementById('hour-marks');
+      for (let i = 0; i < 60; i++) {
+        const a = (i * 6 - 90) * Math.PI / 180;
+        const major = i % 5 === 0;
+        const r1 = major ? 38 : 42;
+        const cos = Math.cos(a), sin = Math.sin(a);
+        const ln = document.createElementNS('http://www.w3.org/2000/svg', 'line');
+        ln.setAttribute('x1', (50 + r1 * cos).toFixed(2));
+        ln.setAttribute('y1', (50 + r1 * sin).toFixed(2));
+        ln.setAttribute('x2', (50 + 45 * cos).toFixed(2));
+        ln.setAttribute('y2', (50 + 45 * sin).toFixed(2));
+        ln.setAttribute('stroke', '#c9a227');
+        ln.setAttribute('stroke-width', major ? '1.5' : '0.6');
+        ln.setAttribute('opacity', major ? '0.9' : '0.35');
+        g.appendChild(ln);
+      }
+    }
+
+    function startClock() { tick(); setInterval(tick, 1000); }
+
+    function tick() {
+      const now = new Date();
+      const h = now.getHours(), m = now.getMinutes(), s = now.getSeconds();
+      document.getElementById('digital-time').textContent =
+        `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+      setHands(h, m, s);
+      if (m !== lastMinute) { lastMinute = m; fetchCurrentEvent(h, m); }
+    }
+
+    function setHands(h, m, s) {
+      const svg = document.getElementById('main-clock');
+      svg.getElementById('main-hour-hand').setAttribute('transform', `rotate(${(h%12)*30+m*0.5},50,50)`);
+      svg.getElementById('main-min-hand').setAttribute('transform', `rotate(${m*6+s*0.1},50,50)`);
+      svg.getElementById('main-sec-hand').setAttribute('transform', `rotate(${s*6},50,50)`);
+    }
+
+    // ── Events ──
+    async function fetchCurrentEvent(h, m) {
+      if (h == null) { const n = new Date(); h = n.getHours(); m = n.getMinutes(); }
+      const t = `${String(h).padStart(2,'0')}:${String(m).padStart(2,'0')}`;
+      const events = await loadEvents(activeCategory);
+      const ev = events[t];
+      if (ev) renderEvent(ev);
+      else renderNoEvent(t);
+    }
+
+    function renderEvent(ev) {
+      document.getElementById('interpretation').textContent = `≈ ${ev.label}`;
+      document.getElementById('event-card').innerHTML =
+        `<h2>${ev.title}</h2><p>${ev.description}</p><p class="fun-fact">${ev.fun_fact}</p>`;
+    }
+
+    function renderNoEvent(t) {
+      document.getElementById('interpretation').textContent = `≈ år ${t.replace(':','')}`;
+      document.getElementById('event-card').innerHTML =
+        `<p class="placeholder">Ingen data för ${t} ännu.</p>`;
+    }
+
+    // ── Themes ──
+    function renderThemeChips() {
+      const cat = categories.find(c => c.id === activeCategory);
+      document.getElementById('theme-chips').innerHTML = (cat?.themes ?? []).map(t =>
+        `<button class="chip" data-theme="${t.replace(/"/g,'&quot;')}">${t}</button>`
+      ).join('');
+      document.getElementById('invite-results').innerHTML = '';
+    }
+
+    async function loadTheme(name) {
+      document.getElementById('invite-results').innerHTML = '<p class="placeholder">Hämtar förslag...</p>';
+      const themes = await loadThemes(activeCategory);
+      const entries = themes[name];
+      if (entries?.length) renderInviteCards(entries);
+      else document.getElementById('invite-results').innerHTML =
+        `<p class="placeholder">Temat "${name}" finns inte i databasen.</p>`;
+    }
+
+    function renderInviteCards(entries) {
+      document.getElementById('invite-results').innerHTML = entries.map(e =>
+        `<div class="invite-card">
+          <div class="card-header">
+            ${smallClock(e.time)}
+            <div class="card-time-info">
+              <span class="card-time">${e.time}</span>
+              <span class="card-year">${e.label}</span>
+            </div>
+          </div>
+          <h3 class="card-title">${e.title}</h3>
+          <p class="card-desc">${e.description}</p>
+          <details class="invite-details">
+            <summary>Visa möteskallelse</summary>
+            <p class="invite-text">${e.invite_text}</p>
+            <button class="copy-btn">Kopiera</button>
+          </details>
+        </div>`
+      ).join('');
+    }
+
+    function smallClock(timeStr) {
+      const [h, m] = timeStr.split(':').map(Number);
+      const ha = ((h % 12) * 30 + m * 0.5).toFixed(1);
+      const ma = (m * 6).toFixed(1);
+      return `<svg viewBox="0 0 100 100" width="58" height="58" style="flex-shrink:0">
+        <circle cx="50" cy="50" r="47" fill="#231910" stroke="#c9a227" stroke-width="2"/>
+        <g transform="rotate(${ha},50,50)">
+          <line x1="50" y1="50" x2="50" y2="28" stroke="#c9a227" stroke-width="5" stroke-linecap="round"/>
+        </g>
+        <g transform="rotate(${ma},50,50)">
+          <line x1="50" y1="50" x2="50" y2="17" stroke="#c9a227" stroke-width="3" stroke-linecap="round"/>
+        </g>
+        <circle cx="50" cy="50" r="3" fill="#c9a227"/>
+      </svg>`;
+    }
+
+    // ── Toast ──
+    function showToast(msg) {
+      const d = document.createElement('div');
+      d.className = 'toast';
+      d.textContent = msg;
+      document.body.appendChild(d);
+      setTimeout(() => d.remove(), 2600);
+    }
+
+    // ── Event delegation ──
+    document.addEventListener('click', e => {
+      const catChip = e.target.closest('#category-nav .chip');
+      if (catChip) {
+        const cat = categories.find(c => c.id === catChip.dataset.cat);
+        if (!cat?.enabled) { showToast('Kommer snart!'); return; }
+        activeCategory = cat.id;
+        lastMinute = -1;
+        renderCategories();
+        renderThemeChips();
+        fetchCurrentEvent();
+        return;
+      }
+
+      const themeChip = e.target.closest('#theme-chips .chip');
+      if (themeChip) {
+        document.querySelectorAll('#theme-chips .chip').forEach(c => c.classList.remove('active'));
+        themeChip.classList.add('active');
+        loadTheme(themeChip.dataset.theme);
+        return;
+      }
+
+      if (e.target.id === 'search-btn') {
+        const val = document.getElementById('custom-theme-input').value.trim();
+        if (val) loadTheme(val);
+        return;
+      }
+
+      if (e.target.classList.contains('copy-btn')) {
+        const text = e.target.previousElementSibling.textContent;
+        navigator.clipboard.writeText(text).then(() => {
+          const orig = e.target.textContent;
+          e.target.textContent = 'Kopierat!';
+          setTimeout(() => e.target.textContent = orig, 2000);
+        });
+        return;
+      }
+
+      const tab = e.target.closest('.tab-btn');
+      if (tab) {
+        document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+        tab.classList.add('active');
+        document.getElementById(tab.dataset.tab + '-content').classList.add('active');
+      }
+    });
+
+    document.getElementById('custom-theme-input').addEventListener('keydown', e => {
+      if (e.key === 'Enter') {
+        const val = e.target.value.trim();
+        if (val) loadTheme(val);
+      }
+    });
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>

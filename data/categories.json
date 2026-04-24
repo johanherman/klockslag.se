@@ -13,11 +13,11 @@
   },
   {
     "id": "frequency",
-    "name": "Frekvens",
+    "name": "Frekvens/Toner",
     "unit": "Hz",
-    "description": "Klockslaget som ljudfrekvens",
+    "description": "Klockslaget som ljudfrekvens och ton",
     "enabled": false,
-    "themes": []
+    "themes": ["Klassiskt", "Rock", "Natur", "Instrument"]
   },
   {
     "id": "distance",
@@ -40,30 +40,6 @@
     "name": "Hastighet",
     "unit": "km/h",
     "description": "Klockslaget som hastighet",
-    "enabled": false,
-    "themes": []
-  },
-  {
-    "id": "calories",
-    "name": "Kalorier",
-    "unit": "kcal",
-    "description": "Klockslaget som kalorier",
-    "enabled": false,
-    "themes": []
-  },
-  {
-    "id": "math",
-    "name": "Matematik",
-    "unit": "",
-    "description": "Klockslaget som tal",
-    "enabled": false,
-    "themes": []
-  },
-  {
-    "id": "elements",
-    "name": "Grundämnen",
-    "unit": "",
-    "description": "Klockslaget via kemiska konstanter",
     "enabled": false,
     "themes": []
   }
