@@ -1,4 +1,18 @@
 {
+  "07:00": {
+    "label": "700 km",
+    "title": "St Petersburg",
+    "description": "Fågelvägen från Stockholm till St Petersburg är ungefär 696 km. Ryssland närmaste storstad, grundad av Peter den store 1703 som Rysslands fönster mot västerlandet.",
+    "fun_fact": "St Petersburg är byggd på ett sumpland i Nevas mynning. Uppskattningar säger att över 100 000 livegna dog under byggnationen.",
+    "invite_text": "Möte 07:00? Ungefär avståndet fågelvägen till St Petersburg."
+  },
+  "07:04": {
+    "label": "704 km",
+    "title": "Bergen",
+    "description": "Fågelvägen från Stockholm till Bergen är 704 km. Norges näst största stad, grundad 1070 och huvudort för Hanseförbundet i Norden.",
+    "fun_fact": "Bergen kallas staden mellan de sju bergen och får regn ungefär 240 dagar per år. Paraplyet är närmast en del av klädseln.",
+    "invite_text": "Möte 07:04? Avståndet fågelvägen till Bergen."
+  },
   "08:25": {
     "label": "825 km",
     "title": "Hamburg",
@@ -27,6 +41,20 @@
     "fun_fact": "Hela Kirunas stadskärna flyttas successivt tre kilometer österut eftersom gruvbrytningen får marken under den gamla staden att sätta sig.",
     "invite_text": "Möte 09:16? Lika långt som till Kiruna, Sveriges nordligaste stad."
   },
+  "09:20": {
+    "label": "920 km",
+    "title": "Bremen",
+    "description": "Fågelvägen från Stockholm till Bremen är 920 km. En av Hansans fria städer sedan medeltiden, med egen stadsstat än idag inom Tyskland.",
+    "fun_fact": "Bremen är Tysklands minsta delstat men äldsta kommun. Staden har bevarat sitt stadsrättigheter obrutet sedan 1260.",
+    "invite_text": "Möte 09:20? Avståndet fågelvägen till Bremen."
+  },
+  "09:54": {
+    "label": "954 km",
+    "title": "Hannover",
+    "description": "Fågelvägen från Stockholm till Hannover är 954 km. Niedersachsens huvudstad och hemmet för den årliga Hannovermässan, världens största industrimässa.",
+    "fun_fact": "Hannovermässan fyller 500 000 kvadratmeter utställningsyta. Det motsvarar ungefär 70 fotbollsplaner under tak.",
+    "invite_text": "Möte 09:54? Avståndet fågelvägen till Hannover."
+  },
   "11:00": {
     "label": "1087 km",
     "title": "Prag",
@@ -41,12 +69,33 @@
     "fun_fact": "Amsterdam har över 1500 broar, fler än Venedig. Staden har också över 100 kilometer kanaler, alla grävda för hand.",
     "invite_text": "Möte 11:52? Avståndet fågelvägen till Amsterdam."
   },
+  "12:00": {
+    "label": "1200 km",
+    "title": "Rotterdam",
+    "description": "Fågelvägen från Stockholm till Rotterdam är 1198 km. Europas största hamnstad och transportknutpunkt, byggd vid Rhens mynning i Nordsjön.",
+    "fun_fact": "Rotterdams centrum byggdes om från grunden efter att tyska bombningar 1940 utplånade hela gamla stadskärnan på en eftermiddag.",
+    "invite_text": "Möte 12:00? Ungefär avståndet fågelvägen till Rotterdam."
+  },
+  "12:15": {
+    "label": "1215 km",
+    "title": "Nürnberg",
+    "description": "Fågelvägen från Stockholm till Nürnberg är 1215 km. Bayerns näst största stad, historiskt en av Tyska-romerska rikets viktigaste rikssäden.",
+    "fun_fact": "Nürnbergrättegångarna 1945 till 1946 lade grunden för modern internationell straffrätt. Termerna brott mot mänskligheten och folkmord formulerades där.",
+    "invite_text": "Möte 12:15? Avståndet fågelvägen till Nürnberg."
+  },
   "12:25": {
     "label": "1225 km",
     "title": "Frankfurt",
     "description": "Fågelvägen från Stockholm till Frankfurt am Main är 1225 km. Tysklands finansiella centrum och säte för Europeiska centralbanken.",
     "fun_fact": "Frankfurt var under Heliga romerska riket platsen där kejsaren kröntes. 31 kejsare kröntes i Frankfurts domkyrka mellan 1562 och 1792.",
     "invite_text": "Möte 12:25? Avståndet fågelvägen till Frankfurt."
+  },
+  "12:42": {
+    "label": "1242 km",
+    "title": "Moskva",
+    "description": "Fågelvägen från Stockholm till Moskva är 1242 km. Rysslands huvudstad sedan återinförandet efter Sovjetunionen, och staden som är så stor att bara tunnelbanenätet är 380 km långt.",
+    "fun_fact": "Moskvas tunnelbana transporterar fler passagerare per dag än New Yorks och Londons tillsammans. Station Majakovskaja har stuckaturtak från 1938.",
+    "invite_text": "Möte 12:42? Avståndet fågelvägen till Moskva."
   },
   "13:00": {
     "label": "1300 km",
@@ -68,6 +117,20 @@
     "description": "Fågelvägen från Stockholm till Edinburgh är 1320 km. Skottlands huvudstad, byggd kring en vulkanisk klippa där slottet tronar.",
     "fun_fact": "Edinburgh Castle ligger på Castle Rock, en erosionsrest efter en utslocknad vulkan som var aktiv för 340 miljoner år sedan.",
     "invite_text": "Möte 13:20? Avståndet fågelvägen till Edinburgh."
+  },
+  "13:26": {
+    "label": "1326 km",
+    "title": "Luxemburg",
+    "description": "Fågelvägen från Stockholm till Luxemburg är 1326 km. Europas enda kvarvarande storhertigdöme och säte för EU-domstolen samt Europeiska revisionsrätten.",
+    "fun_fact": "Luxemburg har högst BNP per capita i världen efter några ministater. Landet är mindre än Gotland men rikare än Schweiz.",
+    "invite_text": "Möte 13:26? Avståndet fågelvägen till Luxemburg."
+  },
+  "13:29": {
+    "label": "1329 km",
+    "title": "Nordkap",
+    "description": "Fågelvägen från Stockholm till Nordkap i Norge är 1329 km. Fastlandseuropas nordligaste punkt, på 71:e breddgraden norr.",
+    "fun_fact": "Nordkap är egentligen inte kontinentens absolut nordligaste punkt. Det är Knivskjellodden 1500 meter västerut, men Nordkap har bättre utsikt och parkering.",
+    "invite_text": "Möte 13:29? Avståndet fågelvägen till Nordkap."
   },
   "13:59": {
     "label": "1361 km",
@@ -96,6 +159,13 @@
     "description": "Fågelvägen från Stockholm till Zürich är 1486 km. Schweiz största stad, inte huvudstad (det är Bern) men landets bank- och finanscentrum.",
     "fun_fact": "Zürich har världens högsta kontantandel i butik bland alla storstäder i rika länder. Schweizare föredrar fortfarande franc i handen framför kort.",
     "invite_text": "Möte 15:00? Ungefär avståndet fågelvägen till Zürich."
+  },
+  "15:28": {
+    "label": "1528 km",
+    "title": "Ljubljana",
+    "description": "Fågelvägen från Stockholm till Ljubljana är 1528 km. Sloveniens huvudstad och en av Europas minsta huvudstäder, byggd kring floden Ljubljanica.",
+    "fun_fact": "Ljubljana blev Sloveniens huvudstad först 1991 vid självständigheten från Jugoslavien. Slovenien är fortfarande EU:s minsta östeuropeiska medlem.",
+    "invite_text": "Möte 15:28? Avståndet fågelvägen till Ljubljana."
   },
   "15:40": {
     "label": "1540 km",
