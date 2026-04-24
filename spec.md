@@ -26,21 +26,19 @@ Alla kategorier följer samma datamodell och UI-mönster, bara tolkningslagret s
 - Horisontell rad med kategori-chips överst
 - Alla fem aktiva
 
-### 2. Tickande klocka ("Just nu")
-- Analog klocka med sekundvisare som tickar i realtid
-- Digital tid bredvid/under
-- Visar tolkning i aktiv kategori
-- Fakta hämtas från pre-kurerad JSON
-- Uppdateras automatiskt varje minut
-
-### 3. Möteskallelse
-- Användaren anger önskat tidsspann
-- Får förslag med:
-  - Klockslag
-  - Tolkning av siffran i vald kategori
-  - Kort beskrivning / fun fact
+### 2. Mötestid in, nördig tid ut
+- Användaren skriver in en planerad mötestid (timme + minut)
+- Default-värde vid sidladdning: aktuell tid
+- Om aktuell tid ligger utanför 07:00–19:55 används 07:00 som default (meningen är att nästa arbetsdag planeras)
+- Ingen lunch-default eller annan förinställd tidszon
+- Ingen live-tickande klocka, värdet är statiskt tills användaren ändrar
+- Resultatet är en enskild närmaste post i vald kategori:
+  - Klockslag (från datan)
+  - Tolkning av siffran (label)
+  - Titel + beskrivning
+  - Fun fact
   - Färdig inbjudningstext redo att kopiera
-- Varje förslag har en liten analog klocka
+- Nearest-logik: linjär minsta absolutdifferens i minuter mot postens klockslag, ingen wrap över dygnsgränsen
 
 ## Datamodell
 

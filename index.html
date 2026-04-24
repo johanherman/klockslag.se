@@ -476,8 +476,11 @@
       categories = await fetch('data/categories.json').then(r => r.json()).catch(() => []);
       renderCategories();
       const now = new Date();
-      document.getElementById('time-h').value = now.getHours();
-      document.getElementById('time-m').value = now.getMinutes();
+      let h = now.getHours(), m = now.getMinutes();
+      const minutes = h * 60 + m;
+      if (minutes < 420 || minutes > 1195) { h = 7; m = 0; }
+      document.getElementById('time-h').value = h;
+      document.getElementById('time-m').value = m;
       updateResult();
     }
 
