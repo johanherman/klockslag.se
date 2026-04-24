@@ -25,7 +25,7 @@
     "name": "Temperatur",
     "unit": "°C",
     "description": "Klockslaget som temperatur",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "speed",
