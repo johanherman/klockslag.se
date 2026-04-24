@@ -1,0 +1,70 @@
+[
+  {
+    "id": "historical",
+    "name": "Årtal",
+    "unit": "",
+    "description": "Klockslaget som historiskt årtal",
+    "enabled": true,
+    "themes": [
+      "Vetenskap", "Lingvistik", "Matematik", "Krig & Politik",
+      "Musik", "Konst", "Filosofi", "Teknik", "Sverige",
+      "Sjöfart", "Astronomi", "Medicin", "Litteratur", "Arkitektur"
+    ]
+  },
+  {
+    "id": "frequency",
+    "name": "Frekvens",
+    "unit": "Hz",
+    "description": "Klockslaget som ljudfrekvens",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "distance",
+    "name": "Avstånd",
+    "unit": "km",
+    "description": "Klockslaget som avstånd från Stockholm",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "temperature",
+    "name": "Temperatur",
+    "unit": "°C",
+    "description": "Klockslaget som temperatur",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "speed",
+    "name": "Hastighet",
+    "unit": "km/h",
+    "description": "Klockslaget som hastighet",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "calories",
+    "name": "Kalorier",
+    "unit": "kcal",
+    "description": "Klockslaget som kalorier",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "math",
+    "name": "Matematik",
+    "unit": "",
+    "description": "Klockslaget som tal",
+    "enabled": false,
+    "themes": []
+  },
+  {
+    "id": "elements",
+    "name": "Grundämnen",
+    "unit": "",
+    "description": "Klockslaget via kemiska konstanter",
+    "enabled": false,
+    "themes": []
+  }
+]
