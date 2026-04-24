@@ -4,43 +4,34 @@
     "name": "Årtal",
     "unit": "",
     "description": "Klockslaget som historiskt årtal",
-    "enabled": true,
-    "themes": [
-      "Vetenskap", "Lingvistik", "Matematik", "Krig & Politik",
-      "Musik", "Konst", "Filosofi", "Teknik", "Sverige",
-      "Sjöfart", "Astronomi", "Medicin", "Litteratur", "Arkitektur"
-    ]
+    "enabled": true
   },
   {
     "id": "frequency",
     "name": "Frekvens/Toner",
     "unit": "Hz",
     "description": "Klockslaget som ljudfrekvens och ton",
-    "enabled": false,
-    "themes": ["Klassiskt", "Rock", "Natur", "Instrument"]
+    "enabled": false
   },
   {
     "id": "distance",
     "name": "Avstånd",
     "unit": "km",
     "description": "Klockslaget som avstånd från Stockholm",
-    "enabled": false,
-    "themes": []
+    "enabled": false
   },
   {
     "id": "temperature",
     "name": "Temperatur",
     "unit": "°C",
     "description": "Klockslaget som temperatur",
-    "enabled": false,
-    "themes": []
+    "enabled": false
   },
   {
     "id": "speed",
     "name": "Hastighet",
     "unit": "km/h",
     "description": "Klockslaget som hastighet",
-    "enabled": false,
-    "themes": []
+    "enabled": false
   }
 ]

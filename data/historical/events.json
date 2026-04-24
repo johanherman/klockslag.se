@@ -1,1 +1,443 @@
-{}
+{
+  "07:11": {
+    "label": "år 711",
+    "title": "Maurerna erövrar Iberiska halvön",
+    "description": "Tariq ibn Ziyad korsar Gibraltar och besegrar visigoterna. Inom sju år behärskar muslimska styrkor hela Spanien. Det blir början på 800 år av al-Andalus.",
+    "fun_fact": "Gibraltar betyder 'Jabal Tariq', alltså Tariqs berg.",
+    "invite_text": "Möte 07:11? Året då Tariq ibn Ziyad landsteg i Spanien och grundlade 800 år av al-Andalus."
+  },
+  "07:32": {
+    "label": "år 732",
+    "title": "Slaget vid Poitiers",
+    "description": "Karl Martell stoppar det arabiska framryckandet i Frankrike. Segern cementerar Karolingerna som frankerrikets härskare och blir en vändpunkt för medeltidens Europa.",
+    "fun_fact": "Karl Martell betyder Karl Hammaren. Hans sonson blev Karl den store.",
+    "invite_text": "Lunch 07:32? Året då Karl Hammaren stoppade arabernas framryckande i Frankrike."
+  },
+  "07:50": {
+    "label": "år 750",
+    "title": "Abbasidkalifatet grundas",
+    "description": "Umayyaderna störtas och abbasiderna tar över kalifatet. Huvudstaden flyttas från Damaskus och snart grundas Bagdad, dåtidens ledande lärdomscentrum.",
+    "fun_fact": "Abbasiderna härledde sin rätt från profeten Muhammeds farbror Abbas.",
+    "invite_text": "Fika 07:50? Samma år som abbasiderna gjorde statskupp mot umayyaderna."
+  },
+  "08:00": {
+    "label": "år 800",
+    "title": "Karl den store kröns till kejsare",
+    "description": "På juldagen år 800 kröner påven Leo III Karl den store till kejsare av det Heliga romerska riket. Västroms idé återuppstår efter 324 år.",
+    "fun_fact": "Karl var analfabet hela livet men tvingade alla präster i sitt rike att lära sig läsa.",
+    "invite_text": "Kickoff 08:00? Året då Karl den store kröntes till kejsare av det Heliga romerska riket."
+  },
+  "08:27": {
+    "label": "år 827",
+    "title": "Egbert enar det engelska kungadömet",
+    "description": "Egbert av Wessex blir erkänd som överkung över de anglosaxiska kungadömena. Första steget mot ett enat England, som Alfred den store sedan ärver.",
+    "fun_fact": "Egbert tillbringade 13 år i exil vid Karl den stores hov innan han återvände som kung.",
+    "invite_text": "Stand-up 08:27? Samma år som Egbert blev första överkungen över England."
+  },
+  "08:43": {
+    "label": "år 843",
+    "title": "Verdunfördraget",
+    "description": "Karl den stores sonsöner delar upp frankerriket i tre delar. Den västra blir Frankrike, den östra Tyskland. Mellandelen blir en evig stridsarena.",
+    "fun_fact": "Den otursamma mellandelen (Lothringen) har bytt nationalitet fler än tio gånger sedan dess.",
+    "invite_text": "Omorganisationsmöte 08:43? Samma år som frankerriket splittrades i tre delar."
+  },
+  "08:55": {
+    "label": "år 855",
+    "title": "Erik Väderhatt regerar i Sverige",
+    "description": "Enligt Hervararsagan styr Erik Emundsson Sveariket. Vikingatiden är i full blomning och Sverige är ett löst förbund av småkungadömen.",
+    "fun_fact": "Erik kallades Väderhatt eftersom han enligt sägnen kunde vända vinden genom att vrida på sin hatt.",
+    "invite_text": "Möte 08:55? Året då Erik Väderhatt kunde vända vinden bara genom att vrida på hatten."
+  },
+  "09:11": {
+    "label": "år 911",
+    "title": "Normandie grundas",
+    "description": "Frankrikes kung Karl den enfaldige ger vikinghövdingen Rollo landet kring Seines mynning mot löfte att skydda det från andra vikingar. Normandie föds.",
+    "fun_fact": "Rollos ättlingar erövrade England 1066, Sicilien på 1070-talet och ledde första korståget.",
+    "invite_text": "Standup 09:11? Året då Karl den enfaldige gav bort en provins till en vikinghövding för att slippa fler vikingar."
+  },
+  "09:30": {
+    "label": "år 930",
+    "title": "Alltinget grundas på Island",
+    "description": "Världens äldsta ännu fungerande parlament grundas på Þingvellir. Islänningarna samlas varje sommar för att stifta lagar och döma tvister, utan kung.",
+    "fun_fact": "Alltinget fungerar fortfarande, över 1000 år senare.",
+    "invite_text": "Allhands 09:30? Samma år som världens första parlament hölls utomhus på Island."
+  },
+  "09:55": {
+    "label": "år 955",
+    "title": "Slaget vid Lechfeld",
+    "description": "Otto I den store besegrar ungrarna vid Augsburg. Magyarernas härjningar i Europa tar slut, och Otto grundlägger det Heliga romerska riket som sedan består i 850 år.",
+    "fun_fact": "Efter slaget slog sig magyarerna ner i Pannonien, området som idag heter Ungern.",
+    "invite_text": "Möte 09:55? Året då Otto den store besegrade ungrarna vid Lechfeld."
+  },
+  "10:00": {
+    "label": "år 1000",
+    "title": "Leif Eriksson når Nordamerika",
+    "description": "Leif den lycklige landstiger i Vinland, troligen Newfoundland, nästan 500 år före Columbus. Isländska sagor beskriver bosättningen och arkeologin bekräftar den.",
+    "fun_fact": "Bosättningen L'Anse aux Meadows är UNESCO-världsarv. Där hittade man järnspikar, och ursprungsamerikaner hade inte järn.",
+    "invite_text": "Kvartalsuppföljning 10:00? Året då Leif Eriksson upptäckte Amerika, 492 år före Columbus."
+  },
+  "10:08": {
+    "label": "år 1008",
+    "title": "Olof Skötkonung döps",
+    "description": "Sveriges första kristna kung döps enligt traditionen i Husaby källa i Västergötland. Kristendomen får fäste i Sverige, även om hedendomen dröjer i hundra år till.",
+    "fun_fact": "Husaby källa finns kvar idag. Gå dit så står du där Sverige blev kristet.",
+    "invite_text": "Möte 10:08? Samma år som Olof Skötkonung döptes och Sverige blev kristet."
+  },
+  "10:14": {
+    "label": "år 1014",
+    "title": "Slaget vid Clontarf",
+    "description": "Irlands överkung Brian Boru besegrar en vikingallians utanför Dublin. Han stupar själv i striden men bryter det nordiska greppet om Irland.",
+    "fun_fact": "Brian Boru dräptes i sitt tält efter slaget, av en flyende viking som råkade springa förbi.",
+    "invite_text": "Möte 10:14? Året då Brian Boru besegrade vikingarna vid Clontarf och stupade i segerögonblicket."
+  },
+  "10:30": {
+    "label": "år 1030",
+    "title": "Slaget vid Stiklestad",
+    "description": "Olav Haraldsson stupar i försöket att återerövra Norge. Inom ett år hyllas han som helgon och Norge enas under kristendomen genom mannen som förlorade slaget.",
+    "fun_fact": "Olavs kult blev hela Nordens viktigaste. Olofsmässan firades även i Sverige och på Island.",
+    "invite_text": "Möte 10:30? Året då Olav den helige stupade vid Stiklestad och ändå vann i efterhand."
+  },
+  "10:54": {
+    "label": "år 1054",
+    "title": "Stora schismen",
+    "description": "Påven i Rom och patriarken i Konstantinopel bannlyser varandra. Kyrkan splittras i romersk-katolsk och grekisk-ortodox, en spricka som fortfarande inte läkt.",
+    "fun_fact": "Bannlysningarna hävdes formellt först 1965, efter 911 års tystnad.",
+    "invite_text": "Avstämning 10:54? Året då kristendomen splittrades i två halvor som fortfarande inte pratar med varandra."
+  },
+  "11:17": {
+    "label": "år 1117",
+    "title": "Jordbävningen i Verona",
+    "description": "En kraftig jordbävning skakar norra Italien och förstör katedralen i Verona. Katastrofen leder till en våg av kyrkbyggande i romansk stil över hela regionen.",
+    "fun_fact": "Jordbävningen drabbade även Pisa och bidrog enligt vissa till att tornet började luta.",
+    "invite_text": "Möte 11:17? Året då jordbävningen i Verona skakade norra Italien och tornet i Pisa började luta."
+  },
+  "11:20": {
+    "label": "år 1120",
+    "title": "Vita skeppets förlisning",
+    "description": "Englands tronarvinge Vilhelm Adelin drunknar när skeppet Blanche-Nef kör på en klippa utanför Normandie. Kungens enda son dör och Englands framtid kastas i kaos.",
+    "fun_fact": "Besättningen var berusad. Kungens son vände om för att rädda sin halvsyster och drunknade tillsammans med henne.",
+    "invite_text": "Möte 11:20? Året då Vita skeppet gick under för att besättningen festat före avgång."
+  },
+  "11:43": {
+    "label": "år 1143",
+    "title": "Portugal blir ett kungadöme",
+    "description": "Afonso Henriques erkänns som Portugals förste kung i Zamora-fördraget. Efter 128 års strid med både morer och Kastilien får Portugal sin självständighet.",
+    "fun_fact": "Portugal är Europas äldsta nationalstat med oförändrade gränser, de har sett likadana ut sedan 1249.",
+    "invite_text": "Möte 11:43? Året då Portugal blev ett självständigt kungadöme efter 128 år."
+  },
+  "11:54": {
+    "label": "år 1154",
+    "title": "Henrik II blir kung av England",
+    "description": "Anarkin tar slut när Henrik Plantagenet kröns. Han regerar över Angevinska riket, halva Frankrike plus England. Hans strid med Thomas Becket blir legendarisk.",
+    "fun_fact": "Henriks obetänksamma utrop om Becket (kommer ingen att befria mig från denna ondskefulla präst?) kostade Becket livet.",
+    "invite_text": "1-on-1 11:54? Året då Henrik II blev kung över England och halva Frankrike."
+  },
+  "12:02": {
+    "label": "år 1202",
+    "title": "Fibonacci publicerar Liber Abaci",
+    "description": "Leonardo av Pisa introducerar arabiska siffror och decimalsystemet i Europa. Räknekonsten revolutioneras och medeltidens köpmän får äntligen ett verktyg som fungerar.",
+    "fun_fact": "Den berömda Fibonaccisekvensen används i boken som övningsexempel om kaniner, inte som huvudpoäng.",
+    "invite_text": "Lunch 12:02? Året då Fibonacci gav Europa arabiska siffror och ordning på räkenskaperna."
+  },
+  "12:15": {
+    "label": "år 1215",
+    "title": "Magna Carta undertecknas",
+    "description": "Englands baroner tvingar kung Johan utan land att signera Stora friheten vid Runnymede. Kungamakten begränsas för första gången av lag, konstitutionalismens urdokument.",
+    "fun_fact": "Johan försökte få påven att ogiltigförklara dokumentet tio veckor senare. Det lyckades, men dokumentet lever ändå.",
+    "invite_text": "Förhandling 12:15? Året då baronerna tvingade kung Johan att underteckna Magna Carta."
+  },
+  "12:27": {
+    "label": "år 1227",
+    "title": "Djingis Khan dör",
+    "description": "Världshistoriens störste erövrare dör i Mongoliet efter att ha skapat det största sammanhängande riket någonsin. Hans grav är aldrig funnen.",
+    "fun_fact": "Ungefär 1 av 200 män i världen har idag en Y-kromosom som kan spåras till Djingis Khan.",
+    "invite_text": "Möte 12:27? Året då Djingis Khan dog med världens största rike i handen."
+  },
+  "12:41": {
+    "label": "år 1241",
+    "title": "Slaget vid Legnica",
+    "description": "Mongolerna krossar en polsk-tysk armé i Schlesien. Europa står öppet för erövring, men samma år dör storkhan Ögedei och armén vänder hem för maktstrid.",
+    "fun_fact": "Europa räddades av en ölturné. Ögedei dog efter ett genomfyllat dryckesgille och kampanjen avbröts.",
+    "invite_text": "Möte 12:41? Året då Europa räddades från mongolerna eftersom deras khan drack ihjäl sig."
+  },
+  "12:52": {
+    "label": "år 1252",
+    "title": "Stockholm grundas",
+    "description": "Birger jarl grundar enligt traditionen Stockholm genom att bygga en stadsborg på Stadsholmen. Ett brev från 1252 omnämner staden för första gången.",
+    "fun_fact": "Namnet Stockholm kan betyda stockholmen, alltså holmen med pålade stockar som lås för inloppet.",
+    "invite_text": "Möte 12:52? Året då Birger jarl grundade Stockholm på en holme i Mälarens utlopp."
+  },
+  "13:07": {
+    "label": "år 1307",
+    "title": "Tempelherreorden krossas",
+    "description": "Fredag den 13 oktober 1307 arresterar Frankrikes kung Filip IV alla tempelriddare i landet. Ordens rikedom beslagtas och ledarna bränns senare på bål.",
+    "fun_fact": "Därifrån stammar vidskepelsen om fredag den 13:e, dagen då tempelriddarna greps.",
+    "invite_text": "Möte 13:07? Året då tempelriddarna greps en fredag den 13:e och otursdagen föddes."
+  },
+  "13:15": {
+    "label": "år 1315",
+    "title": "Stora svälten",
+    "description": "Flerårig missväxt drabbar norra Europa. En tredjedel av befolkningen i vissa områden dör av svält. Medeltidens klimatoptimum är definitivt över.",
+    "fun_fact": "Svälten föregick digerdöden med 32 år. Europa var redan försvagat när pesten kom.",
+    "invite_text": "Lunch 13:15? Året då stora svälten drabbade norra Europa."
+  },
+  "13:37": {
+    "label": "år 1337",
+    "title": "Hundraåriga kriget bryter ut",
+    "description": "Edvard III av England gör anspråk på den franska tronen och kriget är i gång. Det kommer pågå i 116 år och förändra båda länderna för alltid.",
+    "fun_fact": "Kriget pågick faktiskt i 116 år, inte 100. Namnet är en arbetstitel som fastnade.",
+    "invite_text": "Möte 13:37? Året då hundraåriga kriget bröt ut och pågick i 116 år."
+  },
+  "13:47": {
+    "label": "år 1347",
+    "title": "Digerdöden når Europa",
+    "description": "Genuesiska skepp lägger till i Messina med döende sjömän. Inom fyra år dör mellan 30 och 60 procent av Europas befolkning.",
+    "fun_fact": "Pesten bars av råttor och spreds vidare av loppor. Katter som skulle döda råttorna dödades själva som häxdjur.",
+    "invite_text": "Möte 13:47? Året då digerdöden nådde Europa och kontinenten förlorade en tredjedel av sin befolkning."
+  },
+  "13:50": {
+    "label": "år 1350",
+    "title": "Digerdödens höjdpunkt i Sverige",
+    "description": "Pesten når Sverige och utplånar en tredjedel av befolkningen. Magnus Eriksson regerar över ett rike som demografiskt inte återhämtar sig under medeltiden.",
+    "fun_fact": "Byarnas namn avslöjar det. Ödesbo och Ödegård står för gårdar som aldrig återbefolkades efter pesten.",
+    "invite_text": "Möte 13:50? Året då digerdöden slog till i Sverige och Magnus Eriksson förlorade en tredjedel av sitt folk."
+  },
+  "13:56": {
+    "label": "år 1356",
+    "title": "Slaget vid Poitiers",
+    "description": "Edvard den svarte prinsen tar Frankrikes kung Johan II tillfånga. Frankrike får betala en gigantisk lösensumma och kungen dör senare i engelsk fångenskap.",
+    "fun_fact": "Lösensumman för Johan II motsvarade ungefär två års inkomster för hela Frankrike.",
+    "invite_text": "Möte 13:56? Året då Frankrikes kung togs som gisslan och lösensumman krossade statskassan."
+  },
+  "14:15": {
+    "label": "år 1415",
+    "title": "Slaget vid Azincourt",
+    "description": "Henrik V:s 6000 engelska långbågsskyttar slår ut 20 000 franska riddare i gyttjan utanför Azincourt. Tungt rustade adelsmän trampas ihjäl av sin egen efterskara.",
+    "fun_fact": "Engelska långbågsskyttar kunde avlossa 10 till 12 pilar per minut. Värre än kulspruta med 1400-talets mått.",
+    "invite_text": "Möte 14:15? Året då 6000 engelsmän slog 20 000 fransmän vid Azincourt."
+  },
+  "14:31": {
+    "label": "år 1431",
+    "title": "Jeanne d'Arc bränns",
+    "description": "Den 19-åriga Jeanne d'Arc bränns på bål i Rouen som kättare. 25 år senare rehabiliteras hon. 489 år senare helgonförklaras hon.",
+    "fun_fact": "Rättegången var riggad. Hon dömdes för att hon klätt sig som man, vilket hon tvingats göra i fängelset för att undvika övergrepp.",
+    "invite_text": "Möte 14:31? Året då Jeanne d'Arc brändes som kättare och nästan 500 år senare blev helgon."
+  },
+  "14:40": {
+    "label": "år 1440",
+    "title": "Gutenberg utvecklar tryckpressen",
+    "description": "Johannes Gutenberg arbetar i Mainz med sin press med rörliga typer. Inom 60 år finns tryckpressar i varje europeisk storstad. Informationsexplosionen inleds.",
+    "fun_fact": "Gutenberg dog fattig. Hans affärspartner Johann Fust stämde honom och tog över pressen.",
+    "invite_text": "Möte 14:40? Året då Gutenberg började trycka den första bibeln med rörliga typer."
+  },
+  "14:53": {
+    "label": "år 1453",
+    "title": "Konstantinopel faller",
+    "description": "Sultan Mehmet II erövrar Konstantinopel efter 53 dagars belägring. Det östromerska riket dör efter 1058 år. Medeltiden är slut, renässansen börjar på allvar.",
+    "fun_fact": "Mehmet var 21 år och hade kanoner som sköt sju meter långa stenkulor mot stadsmuren.",
+    "invite_text": "Möte 14:53? Året då en 21-årig sultan erövrade Konstantinopel och avslutade Romarriket."
+  },
+  "15:17": {
+    "label": "år 1517",
+    "title": "Luthers 95 teser",
+    "description": "Den 31 oktober spikar Martin Luther enligt traditionen upp sina 95 teser på slottskyrkan i Wittenberg. Reformationen är född och västkristendomen kommer att splittras för alltid.",
+    "fun_fact": "Teserna var skrivna på latin och riktade sig till akademiker, inte folket. De spreds ändå på tyska genom tryckpressen.",
+    "invite_text": "Möte 15:17? Året då Luther spikade upp 95 teser på kyrkdörren i Wittenberg."
+  },
+  "15:20": {
+    "label": "år 1520",
+    "title": "Stockholms blodbad",
+    "description": "Kristian II låter avrätta 82 av Sveriges ledande adelsmän och kyrkliga företrädare på Stortorget under tre novemberdagar. Händelsen utlöser frihetskriget under Gustav Vasa.",
+    "fun_fact": "Röda stenar på Stortorget markerar ännu idag var blodbadet utspelade sig.",
+    "invite_text": "Möte 15:20? Året då Stockholms blodbad ägde rum på Stortorget."
+  },
+  "15:23": {
+    "label": "år 1523",
+    "title": "Gustav Vasa kung, Sverige fritt",
+    "description": "Den 6 juni väljs Gustav Vasa till Sveriges kung i Strängnäs. Kalmarunionen är slut, Sverige är självständigt och Vasatiden som ska forma landet i 400 år är inledd.",
+    "fun_fact": "Den 6 juni blev Sveriges nationaldag först 1983. Innan dess firades ingen särskild dag.",
+    "invite_text": "Allmöte 15:23? Året då Gustav Vasa blev kung och Sverige lämnade Kalmarunionen."
+  },
+  "15:41": {
+    "label": "år 1541",
+    "title": "Gustav Vasas bibel",
+    "description": "Hela Bibeln utkommer på svenska för första gången. Översättningen blir normerande för det svenska skriftspråket i flera hundra år framåt.",
+    "fun_fact": "Vasabibeln standardiserade svenskan innan Svenska Akademien ens fanns på ritbordet.",
+    "invite_text": "Möte 15:41? Året då första hela svenska bibeln trycktes och svenskan fick en standard."
+  },
+  "15:55": {
+    "label": "år 1555",
+    "title": "Augsburgska religionsfreden",
+    "description": "Freden mellan protestanter och katoliker i det Heliga romerska riket. Principen cuius regio, eius religio (härskarens tro blir undersåtarnas) etableras.",
+    "fun_fact": "Fungerade i 63 år. Sedan bröt trettioåriga kriget ut, det värsta krig Europa sett före 1900-talet.",
+    "invite_text": "Möte 15:55? Året då protestanter och katoliker slöt fred i Augsburg."
+  },
+  "16:11": {
+    "label": "år 1611",
+    "title": "Gustav II Adolf blir kung",
+    "description": "Sjuttonåringen Gustav II Adolf ärver tronen mitt under krig mot Danmark, Ryssland och Polen. Han blir Sveriges största militära geni och dör 21 år senare i strid.",
+    "fun_fact": "Gustav II Adolf talade flytande sju språk vid 15 års ålder: svenska, tyska, holländska, franska, italienska, latin och grekiska.",
+    "invite_text": "Kickoff 16:11? Året då 17-åringen Gustav II Adolf blev kung mitt under tre krig."
+  },
+  "16:18": {
+    "label": "år 1618",
+    "title": "Trettioåriga kriget börjar",
+    "description": "Defenestrationen i Prag: tre kejserliga ämbetsmän kastas ut genom ett fönster av protestantiska adelsmän. Sveriges 30 värsta krigsår är ett decennium bort.",
+    "fun_fact": "Alla tre överlevde fallet på 20 meter eftersom de landade på en hög med dynga.",
+    "invite_text": "Möte 16:18? Året då trettioåriga kriget inleddes med att tre byråkrater kastades ut genom ett fönster."
+  },
+  "16:28": {
+    "label": "år 1628",
+    "title": "Regalskeppet Vasa sjunker",
+    "description": "Världens praktfullaste krigsskepp sjunker efter 1300 meters jungfruresa i Stockholms hamn. Designfel (för många kanondäck, för lite barlast) dömer skeppet direkt.",
+    "fun_fact": "Vasa bärgades 333 år senare, 1961, och är idag världens bäst bevarade 1600-talsskepp.",
+    "invite_text": "Möte 16:28? Året då Vasa sjönk efter 1300 meter på sin jungfruresa."
+  },
+  "16:32": {
+    "label": "år 1632",
+    "title": "Slaget vid Lützen",
+    "description": "Sverige vinner slaget men Gustav II Adolf stupar. Hans död förändrar Europas politiska karta. Dottern Kristina tar tronen vid sex års ålder.",
+    "fun_fact": "Gustav II Adolf var närsynt och vägrade bära harnesk för att det skavde. Båda sakerna försvårade överlevnad i strid.",
+    "invite_text": "Möte 16:32? Året då Gustav II Adolf stupade vid Lützen mitt i segern."
+  },
+  "16:48": {
+    "label": "år 1648",
+    "title": "Westfaliska freden",
+    "description": "Efter 30 år av krig sluts fred i Münster och Osnabrück. Sverige får Vorpommern och blir europeisk stormakt. Nationalstatsprincipen föds och blir grunden för dagens världsordning.",
+    "fun_fact": "Förhandlingarna pågick i fyra år. Delegaterna kunde inte ens komma överens om vem som fick gå in i rummet först.",
+    "invite_text": "Möte 16:48? Året då Westfaliska freden slöts och Sverige blev europeisk stormakt."
+  },
+  "16:58": {
+    "label": "år 1658",
+    "title": "Freden i Roskilde",
+    "description": "Karl X Gustav tvingar Danmark att avträda Skåne, Halland, Blekinge, Bohuslän och flera andra områden. Sveriges territoriella höjdpunkt, uppnådd genom att marschera över isen till Själland.",
+    "fun_fact": "Tåget över Stora Bält var delvis en bluff. Bara en bråkdel av armén korsade isen, men Danmark trodde allt var på väg.",
+    "invite_text": "Möte 16:58? Året då Sverige tog Skåne efter att ha marscherat över isen till Danmark."
+  },
+  "17:00": {
+    "label": "år 1700",
+    "title": "Stora nordiska kriget börjar",
+    "description": "Danmark, Sachsen-Polen och Ryssland anfaller samtidigt Sverige. Karl XII är 17 år. Sverige ska kämpa för sitt stormaktsvälde och förlora det.",
+    "fun_fact": "Karl XII slog Danmark på sex veckor, Sachsen på några månader och massakrerade ryssarna vid Narva i en snöstorm. Han var 18 år.",
+    "invite_text": "Möte 17:00? Året då stora nordiska kriget bröt ut och Karl XII blev krigsherre vid 17."
+  },
+  "17:09": {
+    "label": "år 1709",
+    "title": "Slaget vid Poltava",
+    "description": "Peter den store krossar Karl XII:s armé i Ukraina. Sveriges stormaktstid slutar samma dag. Karl flyr till Osmanska riket och dröjer fem år innan han återvänder.",
+    "fun_fact": "Karl XII var sårad i foten och kunde inte leda armén själv under slaget.",
+    "invite_text": "Möte 17:09? Året då Karl XII förlorade allt vid Poltava och flydde till Osmanska riket."
+  },
+  "17:18": {
+    "label": "år 1718",
+    "title": "Karl XII dör vid Fredriksten",
+    "description": "En skyttekula träffar kungens huvud under belägringen av Fredriksten i Norge. Sveriges stormaktstid är definitivt slut. Än idag diskuteras om skottet kom framifrån eller bakifrån.",
+    "fun_fact": "Kulan som dödade kungen finns bevarad och har analyserats minst tre gånger utan att debatten kunnat avslutas.",
+    "invite_text": "Möte 17:18? Året då Karl XII dog i skyttegraven vid Fredriksten."
+  },
+  "17:35": {
+    "label": "år 1735",
+    "title": "Linné publicerar Systema Naturae",
+    "description": "Carl von Linné introducerar det binära systemet för att namnge arter. Homo sapiens. Felis catus. Biologin får äntligen ett gemensamt språk.",
+    "fun_fact": "Linné döpte sig själv till Carolus Linnaeus när han adlades och satte därmed sig själv i taxonomins centrum.",
+    "invite_text": "Lunch 17:35? Året då Linné publicerade Systema Naturae och gav biologin ett gemensamt språk."
+  },
+  "17:57": {
+    "label": "år 1757",
+    "title": "Slaget vid Plassey",
+    "description": "Brittiska Ostindiska kompaniet besegrar Bengalens nawab med bara 3000 soldater. Indien blir gradvis brittiskt när ett företag erövrar ett kontinentstort rike åt kronan.",
+    "fun_fact": "Robert Clive mutade motståndarens general innan slaget. Halva fiendens armé strejkade på signal.",
+    "invite_text": "Möte 17:57? Året då ett företag erövrade Indien vid Plassey."
+  },
+  "18:09": {
+    "label": "år 1809",
+    "title": "Finland förloras till Ryssland",
+    "description": "I freden i Fredrikshamn avträder Sverige Finland efter 600 år. Gustav IV Adolf avsätts i statskupp. Sverige får ny regeringsform, grunden för dagens demokrati.",
+    "fun_fact": "Året då Sverige förlorade en tredjedel av sitt territorium var också året vi fick vår första moderna grundlag.",
+    "invite_text": "Möte 18:09? Året då Sverige förlorade Finland och fick ny grundlag samma år."
+  },
+  "18:15": {
+    "label": "år 1815",
+    "title": "Slaget vid Waterloo",
+    "description": "Wellington och Blücher krossar Napoleon i Belgien. Kejsaren skickas till Sankt Helena. 22 års revolutions- och napoleonkrig tar slut. Europa konserverar sig på Wienkongressen.",
+    "fun_fact": "ABBA sjöng om det 159 år senare och vann Eurovision.",
+    "invite_text": "Möte 18:15? Året då Napoleon förlorade vid Waterloo och skickades till Sankt Helena."
+  },
+  "18:32": {
+    "label": "år 1832",
+    "title": "Göta kanal invigs",
+    "description": "Efter 22 års arbete invigs Göta kanal. Baltazar von Platen ligger redan i graven när hans vision blir verklighet: en vattenväg genom Sverige från Östersjön till Västerhavet.",
+    "fun_fact": "60 000 indelta soldater grävde kanalen för hand med spade.",
+    "invite_text": "Möte 18:32? Året då Göta kanal invigdes efter 22 års byggande."
+  },
+  "18:48": {
+    "label": "år 1848",
+    "title": "Revolutionsåret",
+    "description": "Revolutioner sveper över Europa: Paris, Berlin, Wien, Budapest. Marx och Engels publicerar Kommunistiska manifestet. Metternichs Europa kollapsar.",
+    "fun_fact": "I Sverige blev det bara marsoroligheter. 18 personer dödades på Stockholms gator, men ingen revolution.",
+    "invite_text": "Allhands 18:48? Året då hela Europa gjorde uppror och Marx publicerade Kommunistiska manifestet."
+  },
+  "18:59": {
+    "label": "år 1859",
+    "title": "Darwin: Om arternas uppkomst",
+    "description": "Charles Darwin publicerar boken som omdefinierar allt levande. Naturligt urval förklarar livets mångfald utan att behöva åberopa gudomligt ingripande.",
+    "fun_fact": "Första upplagan på 1250 exemplar sålde slut på en dag.",
+    "invite_text": "Möte 18:59? Året då Darwin publicerade Om arternas uppkomst."
+  },
+  "19:05": {
+    "label": "år 1905",
+    "title": "Einsteins mirakelår",
+    "description": "En okänd patentingenjör i Bern publicerar fyra artiklar: fotoeffekten, Brownsk rörelse, speciella relativitetsteorin, E=mc². Samma år upplöses unionen mellan Sverige och Norge fredligt.",
+    "fun_fact": "Einstein fick Nobelpriset för fotoeffekten, inte relativitetsteorin, som ansågs för kontroversiell.",
+    "invite_text": "Möte 19:05? Året då Einstein skrev fyra grundläggande fysikartiklar på fritiden."
+  },
+  "19:12": {
+    "label": "år 1912",
+    "title": "Titanic sjunker",
+    "description": "Den osänkbara oceanångaren sjunker på sin jungfruresa efter kollision med isberg. 1514 människor dör. Samma år håller Stockholm olympiska spel.",
+    "fun_fact": "Titanic hade livbåtar för bara halva passagerarantalet, vilket var vad dåtidens regelverk krävde.",
+    "invite_text": "Möte 19:12? Året då Titanic sjönk på sin jungfruresa och Stockholm höll OS."
+  },
+  "19:14": {
+    "label": "år 1914",
+    "title": "Första världskriget bryter ut",
+    "description": "Ett skott i Sarajevo utlöser fyra års industrialiserat massmord. 17 miljoner döda. Europa klipper av sitt eget 1800-tal och tar ett kliv in i 1900-talet.",
+    "fun_fact": "Skytten Gavrilo Princip åt en sandwich på ett gathörn när ärkehertigens bil råkade stanna framför honom.",
+    "invite_text": "Möte 19:14? Året då första världskriget bröt ut efter ett skott i Sarajevo."
+  },
+  "19:18": {
+    "label": "år 1918",
+    "title": "Första världskriget slutar, spanska sjukan härjar",
+    "description": "Den 11 november tystnar kanonerna. Samma år dör 50 miljoner i spanska sjukan, fler än i hela kriget. Tre kejsardömen upphör: Tyskland, Österrike-Ungern, Ryssland.",
+    "fun_fact": "Spanska sjukan kom inte från Spanien. Spanien var neutralt och rapporterade öppet. Andra länder censurerade sina utbrott.",
+    "invite_text": "Möte 19:18? Året då kriget slutade och pandemin härjade samtidigt."
+  },
+  "19:39": {
+    "label": "år 1939",
+    "title": "Andra världskriget börjar",
+    "description": "Den 1 september anfaller Tyskland Polen. Storbritannien och Frankrike förklarar krig två dagar senare. 80 miljoner människor kommer att dö innan det är över.",
+    "fun_fact": "Sverige förklarade sig neutralt men sålde järnmalm till Tyskland under hela kriget.",
+    "invite_text": "Möte 19:39? Året då andra världskriget bröt ut med Tysklands anfall på Polen."
+  },
+  "19:45": {
+    "label": "år 1945",
+    "title": "Andra världskriget slutar",
+    "description": "Tyskland kapitulerar i maj, Japan i september efter Hiroshima och Nagasaki. FN grundas. Kärnvapenåldern börjar. Europas världsdominans är slutligt över.",
+    "fun_fact": "Första atombombens explosionskraft kom från 0,7 gram materia som omvandlades till energi enligt Einsteins E=mc².",
+    "invite_text": "Möte 19:45? Året då andra världskriget slutade och FN grundades."
+  },
+  "19:53": {
+    "label": "år 1953",
+    "title": "DNA:s struktur upptäcks",
+    "description": "Watson och Crick publicerar dubbelhelixmodellen i Nature. Molekylärbiologin föds. Rosalind Franklins röntgenbilder var avgörande men hon fick aldrig Nobelpriset.",
+    "fun_fact": "Artikeln i Nature var 128 rader lång. Avslutningsraden (\"Det har inte undgått vår uppmärksamhet att...\") är vetenskapens snyggaste understatement.",
+    "invite_text": "Möte 19:53? Året då DNA:s dubbelhelixstruktur upptäcktes."
+  },
+  "19:57": {
+    "label": "år 1957",
+    "title": "Sputnik: rymdåldern börjar",
+    "description": "Sovjetunionen skjuter upp världens första satellit. En pipande metallkula i omloppsbana chockerar USA. Rymdkapplöpningen är i gång och leder till månen tolv år senare.",
+    "fun_fact": "Sputnik vägde bara 83 kilo. Dess radiopip hördes av radioamatörer över hela jorden och skrämde Washington rejält.",
+    "invite_text": "Möte 19:57? Året då Sputnik sköts upp och rymdåldern började."
+  }
+}
