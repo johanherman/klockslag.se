@@ -18,7 +18,7 @@
     "name": "Avstånd",
     "unit": "km",
     "description": "Klockslaget som avstånd från Stockholm",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "temperature",

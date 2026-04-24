@@ -1,0 +1,142 @@
+{
+  "08:25": {
+    "label": "825 km",
+    "title": "Hamburg",
+    "description": "Fågelvägen från Stockholm till Hamburg är 825 km. Hansans största stad i söder, och porten till Centraleuropa för svenska köpmän i flera århundraden.",
+    "fun_fact": "Hamburgs hamn är Tysklands största och Europas tredje största. Den hanterar nästan tio miljoner containrar om året.",
+    "invite_text": "Möte 08:25? Avståndet fågelvägen till Hamburg, Hansans gamla stad."
+  },
+  "08:54": {
+    "label": "854 km",
+    "title": "Warszawa",
+    "description": "Fågelvägen från Stockholm till Warszawa är 854 km. Polens huvudstad ligger på nästan samma longitud som Malmö men över 600 km söderut.",
+    "fun_fact": "Gamla stan i Warszawa förstördes till 85 procent under andra världskriget. Återuppbyggnaden efter kriget är ett Unesco-världsarv.",
+    "invite_text": "Möte 08:54? Lika långt som fågelvägen till Warszawa."
+  },
+  "08:55": {
+    "label": "855 km",
+    "title": "Berlin",
+    "description": "Fågelvägen från Stockholm till Berlin är 855 km. Ungefär samma avstånd som till Warszawa, och Tysklands huvudstad sedan återföreningen 1990.",
+    "fun_fact": "Berlinmuren var 155 km lång och stod i 28 år. Bitar av muren finns idag utställda på museer över hela världen.",
+    "invite_text": "Möte 08:55? Avståndet fågelvägen till Berlin."
+  },
+  "09:16": {
+    "label": "916 km",
+    "title": "Kiruna",
+    "description": "Fågelvägen från Stockholm till Kiruna är 916 km. Sveriges nordligaste stad, byggd kring en av världens största järnmalmsgruvor.",
+    "fun_fact": "Hela Kirunas stadskärna flyttas successivt tre kilometer österut eftersom gruvbrytningen får marken under den gamla staden att sätta sig.",
+    "invite_text": "Möte 09:16? Lika långt som till Kiruna, Sveriges nordligaste stad."
+  },
+  "11:00": {
+    "label": "1087 km",
+    "title": "Prag",
+    "description": "Fågelvägen från Stockholm till Prag är ungefär 1087 km. Böhmens gamla huvudstad med den berömda Karlsbron från 1357.",
+    "fun_fact": "Karlsbron i Prag har stått i 668 år. När den byggdes blandades äggulor i bruket för att stärka kalkputsen.",
+    "invite_text": "Möte 11:00? Ungefär avståndet fågelvägen till Prag."
+  },
+  "11:52": {
+    "label": "1152 km",
+    "title": "Amsterdam",
+    "description": "Fågelvägen från Stockholm till Amsterdam är 1152 km. Nederländernas huvudstad, byggd på pålar i ett träsk som dränerats sedan 1200-talet.",
+    "fun_fact": "Amsterdam har över 1500 broar, fler än Venedig. Staden har också över 100 kilometer kanaler, alla grävda för hand.",
+    "invite_text": "Möte 11:52? Avståndet fågelvägen till Amsterdam."
+  },
+  "12:25": {
+    "label": "1225 km",
+    "title": "Frankfurt",
+    "description": "Fågelvägen från Stockholm till Frankfurt am Main är 1225 km. Tysklands finansiella centrum och säte för Europeiska centralbanken.",
+    "fun_fact": "Frankfurt var under Heliga romerska riket platsen där kejsaren kröntes. 31 kejsare kröntes i Frankfurts domkyrka mellan 1562 och 1792.",
+    "invite_text": "Möte 12:25? Avståndet fågelvägen till Frankfurt."
+  },
+  "13:00": {
+    "label": "1300 km",
+    "title": "Wien och Bryssel",
+    "description": "Båda är drygt 1285 km fågelvägen från Stockholm. Wien åt sydost, Bryssel åt sydväst. Två av EU:s viktigaste städer ligger på samma avstånd.",
+    "fun_fact": "Wien blev EU:s huvudstad för diplomati med säte för bland annat OSSE och IAEA. Bryssel rymmer EU-kommissionen och Natos högkvarter.",
+    "invite_text": "Möte 13:00? Avståndet fågelvägen till Wien och Bryssel, nästan på pricken samma."
+  },
+  "13:17": {
+    "label": "1317 km",
+    "title": "München",
+    "description": "Fågelvägen från Stockholm till München är 1317 km. Bayerns huvudstad och Oktoberfests hemort sedan 1810.",
+    "fun_fact": "Oktoberfest startade som bröllopsfirande för prins Ludwig i oktober 1810. Idag börjar festen i september för att undvika höstväder.",
+    "invite_text": "Möte 13:17? Avståndet fågelvägen till München."
+  },
+  "13:20": {
+    "label": "1320 km",
+    "title": "Edinburgh",
+    "description": "Fågelvägen från Stockholm till Edinburgh är 1320 km. Skottlands huvudstad, byggd kring en vulkanisk klippa där slottet tronar.",
+    "fun_fact": "Edinburgh Castle ligger på Castle Rock, en erosionsrest efter en utslocknad vulkan som var aktiv för 340 miljoner år sedan.",
+    "invite_text": "Möte 13:20? Avståndet fågelvägen till Edinburgh."
+  },
+  "13:59": {
+    "label": "1361 km",
+    "title": "Budapest",
+    "description": "Fågelvägen från Stockholm till Budapest är 1361 km. Ungerns huvudstad bildades 1873 genom sammanslagning av Buda och Pest, städerna på varsin sida Donau.",
+    "fun_fact": "Budapests tunnelbanelinje M1 från 1896 är kontinentens äldsta. Bara Londons är äldre i världen.",
+    "invite_text": "Möte 13:59? Avståndet fågelvägen till Budapest."
+  },
+  "14:00": {
+    "label": "1383 km",
+    "title": "Glasgow",
+    "description": "Fågelvägen från Stockholm till Glasgow är 1383 km. Skottlands största stad och historiskt dess industriella hjärta, byggd kring floden Clyde.",
+    "fun_fact": "Glasgow byggde på sin storhetstid en fjärdedel av världens fartygstonnage. Queen Mary och Queen Elizabeth byggdes båda vid Clyde.",
+    "invite_text": "Möte 14:00? Ungefär avståndet fågelvägen till Glasgow."
+  },
+  "14:59": {
+    "label": "1462 km",
+    "title": "London",
+    "description": "Fågelvägen från Stockholm till London är 1462 km. Storbritanniens huvudstad, bebodd oavbrutet sedan romarna grundade Londinium år 43.",
+    "fun_fact": "Londons tunnelbana från 1863 är världens äldsta. Den ursprungliga linjen gick bara tre kilometer och drevs av ångmaskiner.",
+    "invite_text": "Möte 14:59? Ungefär avståndet fågelvägen till London."
+  },
+  "15:00": {
+    "label": "1486 km",
+    "title": "Zürich",
+    "description": "Fågelvägen från Stockholm till Zürich är 1486 km. Schweiz största stad, inte huvudstad (det är Bern) men landets bank- och finanscentrum.",
+    "fun_fact": "Zürich har världens högsta kontantandel i butik bland alla storstäder i rika länder. Schweizare föredrar fortfarande franc i handen framför kort.",
+    "invite_text": "Möte 15:00? Ungefär avståndet fågelvägen till Zürich."
+  },
+  "15:40": {
+    "label": "1540 km",
+    "title": "Paris",
+    "description": "Fågelvägen från Stockholm till Paris är 1540 km. Frankrikes huvudstad, bebodd av parisii-stammen sedan 300-talet f.Kr.",
+    "fun_fact": "Eiffeltornet var meningen att rivas efter världsutställningen 1889. Det fick stå kvar eftersom det visade sig vara användbart som radiomast.",
+    "invite_text": "Möte 15:40? Avståndet fågelvägen till Paris."
+  },
+  "15:59": {
+    "label": "1572 km",
+    "title": "Sveriges längd från norr till söder",
+    "description": "Från Treriksröset i norr till Smygehuk i söder är Sverige 1572 km långt. Samma avstånd som från Stockholm ungefär halvvägs till Medelhavet.",
+    "fun_fact": "Sverige är ett av Europas längsta länder från norr till söder. Bara Norge slår oss i Nordeuropa.",
+    "invite_text": "Möte 15:59? Lika långt som Sveriges längd från Treriksröset till Smygehuk."
+  },
+  "16:00": {
+    "label": "1590 km",
+    "title": "E4 Helsingborg till Haparanda",
+    "description": "E4 är 1590 km från Helsingborg i söder till Haparanda i norr. Sveriges längsta motorvägsträcka, klassad som Europaväg.",
+    "fun_fact": "E4:an består inte av motorväg hela vägen. Norr om Gävle finns långa sträckor där vägen är vanlig landsväg med en fil i varje riktning.",
+    "invite_text": "Möte 16:00? Lika långt som E4:an från Helsingborg till Haparanda."
+  },
+  "16:25": {
+    "label": "1625 km",
+    "title": "Dublin",
+    "description": "Fågelvägen från Stockholm till Dublin är 1625 km. Irlands huvudstad, grundad av vikingar kring år 841 som handelsplats vid floden Liffey.",
+    "fun_fact": "Dublin grundades av vikingar som drev slavhandel mellan Irland och resten av Europa. Namnet kommer från iriska Dubh Linn, svart pool.",
+    "invite_text": "Möte 16:25? Avståndet fågelvägen till Dublin."
+  },
+  "16:59": {
+    "label": "1674 km",
+    "title": "Milano",
+    "description": "Fågelvägen från Stockholm till Milano är 1674 km. Italiens ekonomiska och modemässiga huvudstad, Po-slättens viktigaste stad.",
+    "fun_fact": "Milano bombades sönder under andra världskriget men Leonardo da Vincis Nattvarden överlevde, trots att huvuddelen av klostret runt den förstördes.",
+    "invite_text": "Möte 16:59? Avståndet fågelvägen till Milano."
+  },
+  "17:59": {
+    "label": "1767 km",
+    "title": "Lyon",
+    "description": "Fågelvägen från Stockholm till Lyon är 1767 km. Frankrikes tredje största stad och gastronomins huvudstad enligt de flesta fransmän.",
+    "fun_fact": "Lyon grundades av romarna 43 f.Kr. under namnet Lugdunum och var under en period Galliens huvudstad. Staden uppfanns praktiskt taget som administrativt centrum.",
+    "invite_text": "Möte 17:59? Avståndet fågelvägen till Lyon."
+  }
+}
