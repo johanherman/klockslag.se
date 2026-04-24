@@ -309,10 +309,10 @@
   },
   "16:00": {
     "label": "1600 Hz · mellan G6 och G#6",
-    "title": "Kliniskt larm",
-    "description": "Mellan G6 (1568 Hz) och G#6 (1661 Hz). 1600 Hz är en vanlig grundfrekvens för medicinska larmsignaler på IVA-avdelningar, vald för att sticka ut från både tal och maskinsurr.",
-    "fun_fact": "ISO 60601-1-8 styr hur larm från medicinteknisk utrustning får låta. Standarden definierar olika prioriteter med olika pulsmönster, men grundtonerna ligger alla i pianos högsta oktav.",
-    "invite_text": "Möte 16:00? Grundtonen i ett IVA-larm."
+    "title": "Sjukhuslarmets övertonsregister",
+    "description": "Mellan G6 (1568 Hz) och G#6 (1661 Hz). IEC 60601-1-8, standarden för medicinska larm, kräver grundton mellan 150 och 1000 Hz och fyra första övertoner inom 300 till 4000 Hz. 1600 Hz hamnar mitt i det övre övertonsspannet.",
+    "fun_fact": "Kravet på flera hörbara övertoner är det som ger sjukhuslarmen deras rika, stickande klang istället för en mjuk sinus. Utan övertoner skulle sköterskor missa dem i bakgrundssurret.",
+    "invite_text": "Möte 16:00? Inom övertonsbandet för sjukhusets larmstandard."
   },
   "16:11": {
     "label": "1611 Hz · telefonfrekvens",
