@@ -13,6 +13,20 @@
     "fun_fact": "Bergen kallas staden mellan de sju bergen och får regn ungefär 240 dagar per år. Paraplyet är närmast en del av klädseln.",
     "invite_text": "Möte 07:04? Avståndet fågelvägen till Bergen."
   },
+  "07:33": {
+    "label": "733 km",
+    "title": "Luleå",
+    "description": "Fågelvägen från Stockholm till Luleå är 733 km. Norrbottens residensstad vid Luleälvens mynning, hemort för stålverket SSAB och Sveriges nordligaste djuphamn.",
+    "fun_fact": "Luleå har världens bäst bevarade medeltida kyrkstad i Gammelstad, med över 400 kyrkstugor från 1700-talet. Den är UNESCO-världsarv sen 1996.",
+    "invite_text": "Möte 07:33? Avståndet fågelvägen till Luleå."
+  },
+  "08:12": {
+    "label": "812 km",
+    "title": "Rhôneflodens längd",
+    "description": "Rhône rinner 812 km från Rhônegletschern i Schweiz genom Genèvesjön och hela södra Frankrike till Medelhavet. En av Europas stora handelsvägar sen antiken.",
+    "fun_fact": "Rhônedalen producerar 70 procent av Frankrikes vattenkraft. Kärnkraft tillkommer, och tillsammans matar floden över en tredjedel av landets el.",
+    "invite_text": "Möte 08:12? Rhôneflodens hela längd."
+  },
   "08:25": {
     "label": "825 km",
     "title": "Hamburg",
@@ -48,6 +62,20 @@
     "fun_fact": "Bremen är Tysklands minsta delstat men äldsta kommun. Staden har bevarat sitt stadsrättigheter obrutet sedan 1260.",
     "invite_text": "Möte 09:20? Avståndet fågelvägen till Bremen."
   },
+  "09:40": {
+    "label": "940 km",
+    "title": "Minsk",
+    "description": "Fågelvägen från Stockholm till Minsk är ungefär 940 km. Belarus huvudstad, byggd till över 80 procent efter andra världskriget då den gamla stadskärnan förstördes helt.",
+    "fun_fact": "Minsk ligger vid floden Svislotj och har varit under tyskt, polskt, ryskt och sovjetiskt styre. Belarus blev självständigt först 1991.",
+    "invite_text": "Möte 09:40? Ungefär avståndet fågelvägen till Minsk."
+  },
+  "09:50": {
+    "label": "950 km",
+    "title": "Ceres dvärgplanetens diameter",
+    "description": "Ceres, det största objektet i asteroidbältet mellan Mars och Jupiter, är ungefär 950 km i diameter. Ungefär lika långt som fågelvägen till norra Polen.",
+    "fun_fact": "Ceres klassades som asteroid i 200 år innan den 2006 uppgraderades till dvärgplanet. Pluto gick motsatt väg, från planet till dvärgplanet, samma år.",
+    "invite_text": "Möte 09:50? Diametern på dvärgplaneten Ceres."
+  },
   "09:54": {
     "label": "954 km",
     "title": "Hannover",
@@ -55,12 +83,54 @@
     "fun_fact": "Hannovermässan fyller 500 000 kvadratmeter utställningsyta. Det motsvarar ungefär 70 fotbollsplaner under tak.",
     "invite_text": "Möte 09:54? Avståndet fågelvägen till Hannover."
   },
+  "10:12": {
+    "label": "1012 km",
+    "title": "Loire, Frankrikes längsta flod",
+    "description": "Loire rinner 1012 km genom centrala Frankrike och är landets längsta flod. Berömd för sina medeltida slott som parlar sig längs dalen.",
+    "fun_fact": "Loires dal är ett UNESCO-världsarv. Över 300 slott står längs floden, byggda mest mellan 1400- och 1700-talet när franska kungar bodde i regionen.",
+    "invite_text": "Möte 10:12? Loireflodens hela längd."
+  },
+  "10:38": {
+    "label": "1038 km",
+    "title": "Tejo, Iberiska halvöns längsta flod",
+    "description": "Tejo (Tajo på spanska) rinner 1038 km från centrala Spanien genom Portugal ut till Atlanten vid Lissabon. Iberiska halvöns längsta flod.",
+    "fun_fact": "Tejos mynning i Lissabon är över 10 km bred. Floden har varit navigerbar sen antiken och är än idag öppen för fartyg långt upp från havet.",
+    "invite_text": "Möte 10:38? Tejos hela längd från källa till hav."
+  },
+  "10:47": {
+    "label": "1047 km",
+    "title": "Vistula, Polens längsta flod",
+    "description": "Vistula (Wisła) rinner 1047 km från Beskiderna i söder till Östersjön vid Gdańsk. Polens nationella flod och länge landets viktigaste handelsväg.",
+    "fun_fact": "Vistulas delta i Östersjön är kontinentens största, med nästan 50 000 hektar våtmark. Polens landmassa matas till en stor del från just denna flod.",
+    "invite_text": "Möte 10:47? Vistulaflodens hela längd."
+  },
   "11:00": {
     "label": "1087 km",
     "title": "Prag",
     "description": "Fågelvägen från Stockholm till Prag är ungefär 1087 km. Böhmens gamla huvudstad med den berömda Karlsbron från 1357.",
     "fun_fact": "Karlsbron i Prag har stått i 668 år. När den byggdes blandades äggulor i bruket för att stärka kalkputsen.",
     "invite_text": "Möte 11:00? Ungefär avståndet fågelvägen till Prag."
+  },
+  "11:10": {
+    "label": "1110 km",
+    "title": "Lofoten",
+    "description": "Fågelvägen från Stockholm till Lofoten i Norge är ungefär 1110 km. Ögruppen ovanför polcirkeln, känd för sina vassa alptoppar som reser sig direkt ur havet.",
+    "fun_fact": "Lofotens fiskeflotta har fiskat torsk i snart 1000 år. Viktiga handelsplatsen Vågan fanns redan omnämnd i sagor från 900-talet.",
+    "invite_text": "Möte 11:10? Ungefär avståndet fågelvägen till Lofoten."
+  },
+  "11:28": {
+    "label": "1128 km",
+    "title": "Vesterålen",
+    "description": "Fågelvägen från Stockholm till Vesterålen i Norge är ungefär 1130 km. Ögruppen norr om Lofoten, mindre besökt men lika dramatiskt format av glaciärer.",
+    "fun_fact": "Vesterålens valsafari är en av norra Norges mest sökta turistupplevelser. Havsdjupet strax utanför kusten når över 2000 meter vilket lockar knölvalar och späckhuggare.",
+    "invite_text": "Möte 11:28? Ungefär avståndet fågelvägen till Vesterålen."
+  },
+  "11:50": {
+    "label": "1150 km",
+    "title": "Treriksröset",
+    "description": "Fågelvägen från Stockholm till Treriksröset är ungefär 1150 km. Punkten där Sverige, Norge och Finland möts i en sjö i nordvästligaste hörnet av landet.",
+    "fun_fact": "Treriksröset ligger i Kilpisjärvi sjön på 470 meters höjd. Monumentet byggdes 1897 i gjutjärn och är en vanlig slutpunkt för vandrare i området.",
+    "invite_text": "Möte 11:50? Avståndet fågelvägen till Treriksröset."
   },
   "11:52": {
     "label": "1152 km",
@@ -76,12 +146,26 @@
     "fun_fact": "Rotterdams centrum byggdes om från grunden efter att tyska bombningar 1940 utplånade hela gamla stadskärnan på en eftermiddag.",
     "invite_text": "Möte 12:00? Ungefär avståndet fågelvägen till Rotterdam."
   },
+  "12:05": {
+    "label": "1205 km",
+    "title": "Tromsø",
+    "description": "Fågelvägen från Stockholm till Tromsø är ungefär 1205 km. Nordnorges största stad, belägen ovanför polcirkeln och känd som 'Nordens Paris' för sin livliga kultur.",
+    "fun_fact": "Tromsø universitet är världens nordligaste och driver norra Europas största norrskensforskning. Staden får ingen sol alls i två månader under vintern.",
+    "invite_text": "Möte 12:05? Avståndet fågelvägen till Tromsø."
+  },
   "12:15": {
     "label": "1215 km",
     "title": "Nürnberg",
     "description": "Fågelvägen från Stockholm till Nürnberg är 1215 km. Bayerns näst största stad, historiskt en av Tyska-romerska rikets viktigaste rikssäden.",
     "fun_fact": "Nürnbergrättegångarna 1945 till 1946 lade grunden för modern internationell straffrätt. Termerna brott mot mänskligheten och folkmord formulerades där.",
     "invite_text": "Möte 12:15? Avståndet fågelvägen till Nürnberg."
+  },
+  "12:18": {
+    "label": "1218 km",
+    "title": "Linz",
+    "description": "Fågelvägen från Stockholm till Linz är ungefär 1215 km. Österrikes tredje största stad vid Donau, känd för stålindustri och en omfattande samtida konstscen.",
+    "fun_fact": "Linz utsågs till Europas kulturhuvudstad 2009. Staden är hemort för den elektroniska musikfestivalen Ars Electronica som arrangerats årligen sen 1979.",
+    "invite_text": "Möte 12:18? Ungefär avståndet fågelvägen till Linz."
   },
   "12:25": {
     "label": "1225 km",
@@ -90,12 +174,26 @@
     "fun_fact": "Frankfurt var under Heliga romerska riket platsen där kejsaren kröntes. 31 kejsare kröntes i Frankfurts domkyrka mellan 1562 och 1792.",
     "invite_text": "Möte 12:25? Avståndet fågelvägen till Frankfurt."
   },
+  "12:33": {
+    "label": "1233 km",
+    "title": "Rhens hela längd",
+    "description": "Rhein rinner 1233 km från Alperna i Schweiz till Nordsjön vid Rotterdam. Europas viktigaste handelsflod sen romartiden.",
+    "fun_fact": "Rheins flöde genom Tyskland drar årligen över 200 miljoner ton frakt. Rotterdams hamn finns på grund av Rheins mynning och är Europas största.",
+    "invite_text": "Möte 12:33? Rhens hela längd från Alperna till Nordsjön."
+  },
   "12:42": {
     "label": "1242 km",
     "title": "Moskva",
     "description": "Fågelvägen från Stockholm till Moskva är 1242 km. Rysslands huvudstad sedan återinförandet efter Sovjetunionen, och staden som är så stor att bara tunnelbanenätet är 380 km långt.",
     "fun_fact": "Moskvas tunnelbana transporterar fler passagerare per dag än New Yorks och Londons tillsammans. Station Majakovskaja har stuckaturtak från 1938.",
     "invite_text": "Möte 12:42? Avståndet fågelvägen till Moskva."
+  },
+  "12:55": {
+    "label": "1255 km",
+    "title": "Kyiv",
+    "description": "Fågelvägen från Stockholm till Kyiv är ungefär 1255 km. Ukrainas huvudstad, byggd på sju kullar längs floden Dnipro och grundad enligt legend år 482.",
+    "fun_fact": "Kyivs stadsvapen avbildar ärkeängeln Mikael. Enligt tradition har ängeln beskyddat staden i över 1500 år, oavsett vilken makt som för stunden styrt.",
+    "invite_text": "Möte 12:55? Ungefär avståndet fågelvägen till Kyiv."
   },
   "13:00": {
     "label": "1300 km",
@@ -132,6 +230,13 @@
     "fun_fact": "Nordkap är egentligen inte kontinentens absolut nordligaste punkt. Det är Knivskjellodden 1500 meter västerut, men Nordkap har bättre utsikt och parkering.",
     "invite_text": "Möte 13:29? Avståndet fågelvägen till Nordkap."
   },
+  "13:50": {
+    "label": "1350 km",
+    "title": "Salzburg",
+    "description": "Fågelvägen från Stockholm till Salzburg är ungefär 1350 km. Österrikes bergstad vid Salzach, Mozarts födelsestad och hemort för Europas äldsta stora musikfestival utanför Italien.",
+    "fun_fact": "Salzburgs namn kommer från saltet som brytts i bergen sen bronsåldern. Saltvinsterna byggde staden, och området heter fortfarande Salzkammergut.",
+    "invite_text": "Möte 13:50? Ungefär avståndet fågelvägen till Salzburg."
+  },
   "13:59": {
     "label": "1361 km",
     "title": "Budapest",
@@ -145,6 +250,27 @@
     "description": "Fågelvägen från Stockholm till Glasgow är 1383 km. Skottlands största stad och historiskt dess industriella hjärta, byggd kring floden Clyde.",
     "fun_fact": "Glasgow byggde på sin storhetstid en fjärdedel av världens fartygstonnage. Queen Mary och Queen Elizabeth byggdes båda vid Clyde.",
     "invite_text": "Möte 14:00? Ungefär avståndet fågelvägen till Glasgow."
+  },
+  "14:10": {
+    "label": "1410 km",
+    "title": "Bern",
+    "description": "Fågelvägen från Stockholm till Bern är ungefär 1410 km. Schweiz huvudstad, byggd kring en krokig bågbildning av floden Aare som nästan gör staden till en ö.",
+    "fun_fact": "Berns gamla stad är ett UNESCO-världsarv med över sex kilometer arkader. Einstein publicerade sina mest berömda artiklar härifrån 1905 medan han jobbade på patentverket.",
+    "invite_text": "Möte 14:10? Ungefär avståndet fågelvägen till Bern."
+  },
+  "14:35": {
+    "label": "1435 km",
+    "title": "Interlaken",
+    "description": "Fågelvägen från Stockholm till Interlaken är ungefär 1435 km. Schweiz berömda turistort mellan två sjöar i Alpernas hjärta, vid foten av Jungfrau och Eiger.",
+    "fun_fact": "Jungfraujoch, nära Interlaken, är Europas högsta järnvägsstation på 3454 meter. Spåret byggdes i 16 år genom berget och invigdes 1912.",
+    "invite_text": "Möte 14:35? Ungefär avståndet fågelvägen till Interlaken."
+  },
+  "14:50": {
+    "label": "1450 km",
+    "title": "Tórshavn, Färöarna",
+    "description": "Fågelvägen från Stockholm till Tórshavn är ungefär 1450 km. Världens minsta huvudstad mätt i invånarantal, cirka 22 000, på 18 öar mitt i Nordatlanten.",
+    "fun_fact": "Färöarna är ett självstyre inom Danmark med eget språk och flagga. Hela ögruppens landyta är 1400 kvadratkilometer, mindre än Öland.",
+    "invite_text": "Möte 14:50? Avståndet fågelvägen till Färöarnas huvudstad."
   },
   "14:59": {
     "label": "1462 km",
@@ -160,6 +286,13 @@
     "fun_fact": "Zürich har världens högsta kontantandel i butik bland alla storstäder i rika länder. Schweizare föredrar fortfarande franc i handen framför kort.",
     "invite_text": "Möte 15:00? Ungefär avståndet fågelvägen till Zürich."
   },
+  "15:13": {
+    "label": "1513 km",
+    "title": "Venedig",
+    "description": "Fågelvägen från Stockholm till Venedig är ungefär 1515 km. Staden byggd på över 100 öar i en lagun, med 400 broar över 150 kanaler istället för gator.",
+    "fun_fact": "Venedig sjunker två millimeter om året. Ett internationellt flodlucksystem, MOSE, stängs sedan 2020 när högvatten hotar att översvämma staden.",
+    "invite_text": "Möte 15:13? Ungefär avståndet fågelvägen till Venedig."
+  },
   "15:28": {
     "label": "1528 km",
     "title": "Ljubljana",
@@ -173,6 +306,13 @@
     "description": "Fågelvägen från Stockholm till Paris är 1540 km. Frankrikes huvudstad, bebodd av parisii-stammen sedan 300-talet f.Kr.",
     "fun_fact": "Eiffeltornet var meningen att rivas efter världsutställningen 1889. Det fick stå kvar eftersom det visade sig vara användbart som radiomast.",
     "invite_text": "Möte 15:40? Avståndet fågelvägen till Paris."
+  },
+  "15:44": {
+    "label": "1544 km",
+    "title": "Darlingfloden i Australien",
+    "description": "Darlingfloden är 1545 km lång, den näst längsta i Australien efter Murray. Den rinner i månader och torrar ut i månader, ofta under samma år.",
+    "fun_fact": "Darlingfloden är en av världens mest flödesvariabla floder. Den kan flöda så bred som en sjö ett år och helt upphöra följande år.",
+    "invite_text": "Möte 15:44? Darlingflodens längd genom Australien."
   },
   "15:59": {
     "label": "1572 km",
@@ -188,12 +328,33 @@
     "fun_fact": "E4:an består inte av motorväg hela vägen. Norr om Gävle finns långa sträckor där vägen är vanlig landsväg med en fil i varje riktning.",
     "invite_text": "Möte 16:00? Lika långt som E4:an från Helsingborg till Haparanda."
   },
+  "16:10": {
+    "label": "1610 km",
+    "title": "Östersjöns längd",
+    "description": "Östersjön mäter ungefär 1610 km från Stettinerbuchten i söder till Kemi i norr. Världens största bräckvattenshav och i stort sett instängt från Atlanten.",
+    "fun_fact": "Östersjön har bara ett utlopp, genom Öresund och Stora Bält. Vattenomsättningen tar 30 till 40 år, vilket gör miljön extra känslig för utsläpp.",
+    "invite_text": "Möte 16:10? Östersjöns hela längd från söder till norr."
+  },
+  "16:19": {
+    "label": "1619 km",
+    "title": "Sveriges riksgräns mot Norge",
+    "description": "Sveriges landgräns mot Norge är 1619 km. En av Europas längsta ostörda landgränser, från Idefjorden i söder upp till Treriksröset.",
+    "fun_fact": "Gränsen mot Norge är markerad med runt 760 numrerade gränsstenar, satta under 1700- och 1800-tal. En del står kvar, andra har flyttats av klimatet.",
+    "invite_text": "Möte 16:19? Sveriges hela landgräns mot Norge."
+  },
   "16:25": {
     "label": "1625 km",
     "title": "Dublin",
     "description": "Fågelvägen från Stockholm till Dublin är 1625 km. Irlands huvudstad, grundad av vikingar kring år 841 som handelsplats vid floden Liffey.",
     "fun_fact": "Dublin grundades av vikingar som drev slavhandel mellan Irland och resten av Europa. Namnet kommer från iriska Dubh Linn, svart pool.",
     "invite_text": "Möte 16:25? Avståndet fågelvägen till Dublin."
+  },
+  "16:35": {
+    "label": "1635 km",
+    "title": "Belfast",
+    "description": "Fågelvägen från Stockholm till Belfast är ungefär 1635 km. Nordirlands huvudstad vid floden Lagan, historiskt centrum för linnefabrikation och skeppsbyggeri.",
+    "fun_fact": "Titanic byggdes i Belfasts hamn, färdig 1912. Staden har idag en stor attraktion, Titanic Belfast, på samma slip där fartyget en gång sjösattes.",
+    "invite_text": "Möte 16:35? Ungefär avståndet fågelvägen till Belfast."
   },
   "16:59": {
     "label": "1674 km",
@@ -202,11 +363,60 @@
     "fun_fact": "Milano bombades sönder under andra världskriget men Leonardo da Vincis Nattvarden överlevde, trots att huvuddelen av klostret runt den förstördes.",
     "invite_text": "Möte 16:59? Avståndet fågelvägen till Milano."
   },
+  "17:17": {
+    "label": "1717 km",
+    "title": "Belgrad",
+    "description": "Fågelvägen från Stockholm till Belgrad är ungefär 1720 km. Serbiens huvudstad vid Donau och Sava. Har förstörts och byggts upp minst 40 gånger genom historien.",
+    "fun_fact": "Belgrads borg Kalemegdan har stått på samma plats i 2000 år. Den har varit romersk, bysantinsk, serbisk, ottomansk och österrikisk, ofta byta ägare på några decennier.",
+    "invite_text": "Möte 17:17? Ungefär avståndet fågelvägen till Belgrad."
+  },
+  "17:32": {
+    "label": "1732 km",
+    "title": "Bologna",
+    "description": "Fågelvägen från Stockholm till Bologna är ungefär 1730 km. Italiens lärda stad med världens äldsta universitet, grundat 1088, och den längsta stadens arkadgator.",
+    "fun_fact": "Bolognas 38 km arkader är ett UNESCO-världsarv. Systemet byggdes så att folk kunde gå i skugga eller skydd för regn genom hela staden utan uppehåll.",
+    "invite_text": "Möte 17:32? Ungefär avståndet fågelvägen till Bologna."
+  },
+  "17:47": {
+    "label": "1747 km",
+    "title": "Florens",
+    "description": "Fågelvägen från Stockholm till Florens är ungefär 1745 km. Renässansens vagga, staden där Dante, Michelangelo och Leonardo levde och verkade under 1300- till 1500-talen.",
+    "fun_fact": "Florens domkyrka är krönt av världens största murade kupol, ritad av Brunelleschi. När bygget startade 1420 visste ingen hur kupolen skulle hålla, Brunelleschi löste det under arbetet.",
+    "invite_text": "Möte 17:47? Ungefär avståndet fågelvägen till Florens."
+  },
   "17:59": {
     "label": "1767 km",
     "title": "Lyon",
     "description": "Fågelvägen från Stockholm till Lyon är 1767 km. Frankrikes tredje största stad och gastronomins huvudstad enligt de flesta fransmän.",
     "fun_fact": "Lyon grundades av romarna 43 f.Kr. under namnet Lugdunum och var under en period Galliens huvudstad. Staden uppfanns praktiskt taget som administrativt centrum.",
     "invite_text": "Möte 17:59? Avståndet fågelvägen till Lyon."
+  },
+  "18:13": {
+    "label": "1813 km",
+    "title": "Sarajevo",
+    "description": "Fågelvägen från Stockholm till Sarajevo är ungefär 1815 km. Bosnien-Hercegovinas huvudstad, där skotten som startade första världskriget avlossades den 28 juni 1914.",
+    "fun_fact": "Sarajevo belägrades i 1425 dagar under kriget på 90-talet, den längsta belägringen av en huvudstad i modern historia.",
+    "invite_text": "Möte 18:13? Ungefär avståndet fågelvägen till Sarajevo."
+  },
+  "18:48": {
+    "label": "1848 km",
+    "title": "Tigrisflodens längd",
+    "description": "Tigris rinner 1850 km från sydöstra Turkiet genom Syrien och Irak till Persiska viken. En av två floder som gav Mesopotamien dess namn: landet mellan floder.",
+    "fun_fact": "De första städerna i mänsklighetens historia byggdes vid Tigris och Eufrat för över 5000 år sen. Bagdad står vid Tigris idag, namnet betyder på arabiska 'given av Gud'.",
+    "invite_text": "Möte 18:48? Tigrisflodens hela längd."
+  },
+  "19:02": {
+    "label": "1902 km",
+    "title": "Jan Mayen",
+    "description": "Fågelvägen från Stockholm till Jan Mayen är ungefär 1900 km. Norsk vulkanö mitt i Nordatlanten, bebodd bara av 18 personer, samtliga anställda vid Norges meteorologiska institut.",
+    "fun_fact": "Jan Mayen hyser Beerenberg, den nordligaste aktiva vulkanen på jorden ovanför polcirkeln. Senaste utbrottet var 1985.",
+    "invite_text": "Möte 19:02? Ungefär avståndet fågelvägen till Jan Mayen."
+  },
+  "19:25": {
+    "label": "1925 km",
+    "title": "Nästan Rom",
+    "description": "Fågelvägen från Stockholm till Rom är ungefär 1965 km. Vid 1925 är man 40 km kort, ungefär vid Montepulciano i norra Toscana.",
+    "fun_fact": "Rom grundades enligt legenden år 753 f.Kr. av tvillingbröderna Romulus och Remus. Arkeologer har hittat byar på Palatinen från ungefär den tiden.",
+    "invite_text": "Möte 19:25? Nästan hela vägen fågelvägen till Rom."
   }
 }
