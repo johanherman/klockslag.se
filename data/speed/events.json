@@ -6,6 +6,13 @@
     "fun_fact": "Tu-95 har världens snabbaste propellrar i flygbruk. Propellerbladens spetsar överskrider ljudhastigheten redan vid normal marschfart.",
     "invite_text": "Möte 07:10? Samma fart som en sovjetisk Tu-95 Bear i marsch."
   },
+  "07:33": {
+    "label": "733 km/h",
+    "title": "Tsunami över djuphav",
+    "description": "En tsunamivåg över 4200 meters havsdjup rör sig ungefär 733 km/h. Farten är proportionell mot roten av djupet, snabbare där havet är djupare.",
+    "fun_fact": "Över oceanens bottnar rör sig tsunamin i jetplansfart men är bara någon decimeter hög. Det är när den når grunt vatten som den saktar ner och växer till förstörande höjd.",
+    "invite_text": "Möte 07:33? Tsunamins fart över djuphavsbotten."
+  },
   "08:05": {
     "label": "805 km/h",
     "title": "Lockheed U-2 Dragon Lady",
@@ -13,12 +20,26 @@
     "fun_fact": "U-2 flyger så nära sin stallfart att piloten bara har ett par knop marginal mellan maxfart och stall. Flygningen kallas därför för hörngräns.",
     "invite_text": "Möte 08:05? Toppfarten för en U-2 Dragon Lady i stratosfären."
   },
+  "08:22": {
+    "label": "822 km/h",
+    "title": "McDonnell Douglas MD-80 i marsch",
+    "description": "Marschfart för MD-80-serien, DC-9:s uppvuxna efterträdare. Var Scandinavian Airlines ryggrad på inrikestrafik under 80- och 90-talen.",
+    "fun_fact": "MD-80 har motorerna bakåt på kroppen, vilket gör kabinen nästan ljudlös jämfört med vingmonterade motorer. Planet ersattes gradvis av Airbus A320 och Boeing 737 efter 2010.",
+    "invite_text": "Möte 08:22? Marschfart för en MD-80 på inrikeskryss."
+  },
   "08:28": {
     "label": "828 km/h",
     "title": "Airbus A320 i marsch",
     "description": "Marschfarten för Airbus A320, Mach 0,78 på 11 000 meters höjd. Europas mest sålda kommersiella flygplan sedan introduktionen 1988.",
     "fun_fact": "A320 var det första passagerarplanet med fly-by-wire i serieproduktion. Piloterna styr via datorsignaler, inte kablar direkt till rodret.",
     "invite_text": "Möte 08:28? Marschfart för en Airbus A320 på kryss."
+  },
+  "08:42": {
+    "label": "842 km/h",
+    "title": "Boeing 737 i marsch",
+    "description": "Marschfart Mach 0,785 för Boeing 737 på 11 000 meters höjd. Världens mest producerade jetflygplan, i serie sedan 1967 och fortfarande i produktion.",
+    "fun_fact": "Över 11 000 Boeing 737 har levererats. I princip alla större flygbolag världen över har någon variant av planet i sin flotta.",
+    "invite_text": "Möte 08:42? Marschfart för en Boeing 737."
   },
   "08:52": {
     "label": "852 km/h",
@@ -55,6 +76,13 @@
     "fun_fact": "USA:s militär använde .45 ACP som standardkaliber från 1911 till 1985. Patronen valdes för sin stopverkan mot filippinska motståndsmän under 1900-talets början.",
     "invite_text": "Möte 09:36? Mynningshastigheten för en .45 ACP-kula."
   },
+  "09:47": {
+    "label": "947 km/h",
+    "title": "Airbus A380 max cruise",
+    "description": "Maxfart Mach 0,89 för Airbus A380, världens största passagerarplan. Fyrmotorig och fullastad med 550 passagerare är det tyngsta som flyger regelbundet.",
+    "fun_fact": "A380 tillverkning lades ner 2021 efter bara 251 byggda exemplar. Efterfrågan svek sedan punkt-till-punkt-flyg blev billigare än navnät.",
+    "invite_text": "Möte 09:47? Airbus A380:s maxmarschfart."
+  },
   "09:56": {
     "label": "956 km/h",
     "title": "Boeing 787 max operativ fart",
@@ -69,12 +97,33 @@
     "fun_fact": "Blue Flames motor drevs av flytande naturgas och väteperoxid. Bränsletanken hade 4 sekunders full effekt innan den var tömd.",
     "invite_text": "Möte 10:14? Farten för raketdrivna Blue Flame 1970."
   },
+  "10:19": {
+    "label": "1019 km/h",
+    "title": "Thrust2, landrekord 1983",
+    "description": "Richard Nobles rekord med jetdrivna Thrust2 på Black Rock Desert 1983. Första rekordet över 1000 km/h på mer än 13 år.",
+    "fun_fact": "Thrust2 drevs av en Rolls-Royce Avon-motor från en Lightning-jaktplan. Samma motortyp användes även i SAS Caravelle-trafikflygplan på 60-talet.",
+    "invite_text": "Möte 10:19? Thrust2:s landrekord från 1983."
+  },
   "10:28": {
     "label": "1028 km/h",
     "title": "BAE Hawk, maxfart",
     "description": "Toppfart för det brittiska jetträningsplanet BAE Hawk. Används av Royal Air Force för utbildning av stridspiloter sedan 1976.",
     "fun_fact": "Red Arrows, brittiska flygvapnets uppvisningsteam, flyger Hawks i alla sina uppvisningar. Laget har uppträtt inför över 350 miljoner åskådare.",
     "invite_text": "Möte 10:28? Toppfart för en BAE Hawk."
+  },
+  "10:44": {
+    "label": "1044 km/h",
+    "title": ".32 ACP mynningshastighet",
+    "description": "Typisk mynningshastighet för en .32 ACP-kula, John Brownings konstruktion från 1899 ursprungligen för Colts första halvautomatiska pistol.",
+    "fun_fact": ".32 ACP var Europas dominerande polispatron fram till 1970-talet. Den användes bland annat i Walther PPK, James Bonds signaturvapen.",
+    "invite_text": "Möte 10:44? Mynningshastigheten för en .32 ACP-kula."
+  },
+  "10:47": {
+    "label": "1047 km/h",
+    "title": "Boeing B-52 Stratofortress, maxfart",
+    "description": "Toppfart för Boeing B-52, USA:s långräckviddsbombplan i drift sedan 1955. Planet förväntas tjänstgöra till 2050, en driftstid på nästan 100 år.",
+    "fun_fact": "B-52 är så gammalt att flera besättningar består av piloter, deras fäder och deras farfäder, som alla flugit samma maskin under sina karriärer.",
+    "invite_text": "Möte 10:47? Toppfart för en B-52 Stratofortress."
   },
   "10:59": {
     "label": "1062 km/h",
@@ -83,12 +132,26 @@
     "fun_fact": "Ljud går fortare i varm luft. Vid havsnivå och 20 °C är ljudhastigheten 1235 km/h. På hög höjd blir det alltså långsammare.",
     "invite_text": "Möte 10:59? Mach 1 på kryssaltitud."
   },
+  "11:05": {
+    "label": "1105 km/h",
+    "title": "F-86 Sabre, maxfart",
+    "description": "Toppfart för North American F-86 Sabre, det amerikanska jaktplan som dominerade Koreakriget. Första jet mot jet-kriget i historien fördes i dess cockpit.",
+    "fun_fact": "F-86:s lutningssegrings-statistik mot sovjetiska MiG-15 är omtvistad. Amerikanerna hävdade 10:1, kineserna och ryssarna snarare 1:1. Sanningen ligger någonstans mitt emellan.",
+    "invite_text": "Möte 11:05? Toppfart för en F-86 Sabre."
+  },
   "11:10": {
     "label": "1110 km/h",
     "title": "Saab Lansen, maxfart",
     "description": "Toppfart för Saab J32 Lansen, svenskt allvädersjaktplan från 1952. Lansen var det första svenska jetplanet i serie som utrustades med svepvingar.",
     "fun_fact": "Saab Lansen förblev i tjänst i Flygvapnet till 1997, en driftstid på 45 år från första leverans.",
     "invite_text": "Möte 11:10? Toppfart för en Saab J32 Lansen."
+  },
+  "11:16": {
+    "label": "1116 km/h",
+    "title": "9 mm subsonic mynning",
+    "description": "Typisk mynningshastighet för 9 mm subsonic-ammunition, 310 m/s. Tunga kulor med reducerad laddning håller farten precis under ljudhastigheten för att undvika ljudbommen.",
+    "fun_fact": "Subsonic-ammunition används mest med ljuddämpare. Utan subsonic hörs kulans ljudbomkrack lika tydligt som själva skottet, även genom den bästa dämparen.",
+    "invite_text": "Möte 11:16? 9 mm subsonic mynning, precis under ljudvallen."
   },
   "11:27": {
     "label": "1127 km/h",
@@ -146,12 +209,40 @@
     "fun_fact": "Parabellum kommer från latinets ordspråk si vis pacem, para bellum: vill du ha fred, rusta för krig. Patronen används av över 60 länders poliser och militärer.",
     "invite_text": "Möte 12:46? Mynningshastigheten för en 9 mm Parabellum."
   },
+  "13:05": {
+    "label": "1305 km/h",
+    "title": "Mach 1,06 vid havsnivå",
+    "description": "1305 km/h är Mach 1,06 vid 20 °C och havsnivå, strax över ljudhastigheten. Ljudbommen bildas just här, en bråkdel över standard Mach 1.",
+    "fun_fact": "Ljudbommen från ett överljudsplan är inte en enda knall utan två. Första kommer från planets nos, andra från stjärten, åtskilda av några tiondels sekunder för stora plan.",
+    "invite_text": "Möte 13:05? Strax över ljudvallen vid havsnivå."
+  },
+  "13:18": {
+    "label": "1318 km/h",
+    "title": "Mach 1,08 vid havsnivå",
+    "description": "Strax över ljudhastigheten vid 20 °C. Området där civila flygplan har en absolut aerodynamisk gräns, konstruktionen kollapsar utan specialvingform.",
+    "fun_fact": "Passagerarplan designas för att aldrig passera Mach 1 eftersom chockvågor över vingen skulle förstöra uppbyggnaden. Concorde hade unikt designad deltaform för att hantera det.",
+    "invite_text": "Möte 13:18? En halvton över civilflygets aerodynamiska gräns."
+  },
+  "13:22": {
+    "label": "1322 km/h",
+    "title": "1700-talsmuskötens mynning",
+    "description": "Typisk mynningshastighet för en mjukhornad musköt från 1700-talet, ungefär 370 m/s. Den brittiska Brown Bess och franska Charleville låg i detta område.",
+    "fun_fact": "En 1700-talsmusköt var exakt på 50 meter och totalt oanvändbar på över 100. Linjärtaktiken med tusentals man i rad gjorde missarna mindre viktiga.",
+    "invite_text": "Möte 13:22? 1700-talets slätborrade musköt mynning."
+  },
   "13:35": {
     "label": "1335 km/h",
     "title": "Rockwell B-1B Lancer, låghöjdsmax",
     "description": "Maxfart för bombflygplanet B-1B Lancer på låg höjd. Konstruerat för att komma in under sovjetisk radar under kalla krigets sista år.",
     "fun_fact": "B-1B har svepvingar som viks bakåt för hög fart, framåt för långsam fart. Systemet är dyrt men ger planet enorm flexibilitet i uppdrag.",
     "invite_text": "Möte 13:35? B-1B Lancer i låghöjdsanflygning."
+  },
+  "13:48": {
+    "label": "1348 km/h",
+    "title": "Mach 1,1 vid havsnivå",
+    "description": "Mach 1,1 vid 20 °C och havsnivå. Området där flygprovsplan under 1950-talet försökte tränga förbi ljudvallen utan att tappa kontrollen i luftturbulensen.",
+    "fun_fact": "Flera piloter dödades under 1940- och 50-talens ljudbarriärsförsök. Chuck Yeager nådde 1947, men många andra dog i dyk som inte gick att kontrollera tillbaka.",
+    "invite_text": "Möte 13:48? Mach 1,1 vid havsnivå."
   },
   "13:58": {
     "label": "1358 km/h",
@@ -160,12 +251,47 @@
     "fun_fact": "Baumgartner föll i 4 minuter och 19 sekunder innan fallskärmen öppnades. Han valde datum exakt 65 år efter Chuck Yeagers ljudbarriärsbrott.",
     "invite_text": "Möte 13:58? Farten Baumgartner föll från stratosfären."
   },
+  "14:04": {
+    "label": "1404 km/h",
+    "title": "122 mm sovjetisk haubits",
+    "description": "Mynningshastighet för 122 mm haubitsgranat från sovjetisk D-30, världens mest spridda artilleripjäs. Granaten når ungefär 15 km ut på platt mark.",
+    "fun_fact": "D-30-haubitsen tillverkas fortfarande i flera länder, först konstruerad 1963. Den är den vanligaste fältpjäsen i konflikter genom hela 2000-talet.",
+    "invite_text": "Möte 14:04? Mynningshastigheten för en 122 mm haubitsgranat."
+  },
+  "14:22": {
+    "label": "1422 km/h",
+    "title": "Mach 1,16 vid havsnivå",
+    "description": "Mach 1,16 vid 20 °C och havsnivå. Området där ett jaktflygplans skarpvingar börjar generera hörbar ljudbomkedja över observatörer på marken.",
+    "fun_fact": "Ljudbommens styrka mäts i övertryck. Ett militärplan i skarp sväng kan slå ut fönster på hundra meters avstånd om det passerar Mach 1 i lågflyg.",
+    "invite_text": "Möte 14:22? Mach 1,16 vid havsnivå."
+  },
+  "14:40": {
+    "label": "1440 km/h",
+    "title": "Napoleontidens kanon",
+    "description": "Mynningshastighet för en typisk 12-pundig fältkanon från Napoleonkrigen, ungefär 400 m/s. Effektiv räckvidd 800 till 1000 meter.",
+    "fun_fact": "En 12-pundig fältkanon vägde nära två ton och drogs av sex hästar. En erfaren artilleribesättning kunde skjuta två till tre skott per minut i strid.",
+    "invite_text": "Möte 14:40? Mynningshastighet för Napoleontidens fältkanon."
+  },
   "14:46": {
     "label": "1446 km/h",
     "title": "Jordens rotation vid 30°N",
     "description": "På 30 graders norr, ungefär New Orleans, Kairo och Shanghai, rör sig jordytan 1446 km/h. Snabbare ju närmre ekvatorn vi kommer.",
     "fun_fact": "Människor i Kairo rör sig nästan dubbelt så fort som människor i Stockholm på grund av jordens rotation. Ingen märker något av den skillnaden.",
     "invite_text": "Möte 14:46? Jordens rotation vid Kairos breddgrad."
+  },
+  "15:08": {
+    "label": "1508 km/h",
+    "title": "Mach 1,23 vid havsnivå",
+    "description": "Mach 1,23 vid 20 °C och havsnivå. Området där flera moderna stridsflygplan håller sin högsta kontinuerliga lågflygsfart utan att riskera överhettning.",
+    "fun_fact": "Att flyga supersoniskt på låg höjd är oerhört bränslekrävande. Ett modernt jaktplan kan göra det i ett par minuter innan tanken är tom.",
+    "invite_text": "Möte 15:08? Typisk kontinuerlig supersonisk lågflygsfart."
+  },
+  "15:29": {
+    "label": "1529 km/h",
+    "title": ".357 Magnum, mynning",
+    "description": "Typisk mynningshastighet för en .357 Magnum-kula, 425 m/s. Patronen utvecklades 1934 för att skjuta genom bildörrar, under den stora depressionens bankrånsvåg.",
+    "fun_fact": ".357 Magnum avlossas ur revolvrar som Smith och Wesson Model 27 och Colt Python. Dirty Harrys ikoniska vapen var faktiskt .44 Magnum, inte .357.",
+    "invite_text": "Möte 15:29? Mynningshastigheten för en .357 Magnum."
   },
   "15:44": {
     "label": "1544 km/h",
@@ -174,12 +300,47 @@
     "fun_fact": "Att flyga supersoniskt över land är förbjudet i större delen av världen. Ljudbommen som bildas när ett plan passerar Mach 1 kan spräcka fönsterrutor på marken.",
     "invite_text": "Möte 15:44? Stridsflygplan i låg supersonisk dykning."
   },
+  "15:55": {
+    "label": "1555 km/h",
+    "title": ".44 Magnum, mynning",
+    "description": "Typisk mynningshastighet för en .44 Magnum-kula, 432 m/s. Dirty Harry Callahans berömda revolverpatron, även världens kraftigaste civila handvapenpatron vid sin lansering 1955.",
+    "fun_fact": "Clint Eastwoods monolog 'Do you feel lucky, punk?' gav .44 Magnum kultstatus. Smith och Wesson Model 29 sålde slut i hela USA efter filmen 1971.",
+    "invite_text": "Möte 15:55? Mynningshastigheten för Dirty Harrys .44 Magnum."
+  },
   "16:00": {
     "label": "1600 km/h",
     "title": "Bloodhound LSR, planerat mål",
     "description": "Bloodhound Land Speed Record är ett brittiskt projekt som siktar mot 1600 km/h på en sjöbotten i Sydafrika. Målet är att bryta Andy Greens rekord från 1997.",
     "fun_fact": "Bloodhound drivs av en Rolls-Royce EJ200-motor från en Eurofighter Typhoon, kombinerad med en raketmotor. Vid full effekt förbrukar fordonet 1800 kilo bränsle per minut.",
     "invite_text": "Möte 16:00? Målet för nästa landhastighetsrekord."
+  },
+  "16:12": {
+    "label": "1612 km/h",
+    "title": "Jordens rotation vid 15°N",
+    "description": "På 15 graders norr, ungefär Dakar, Bombay och Manila, rör sig jordytan 1612 km/h. Den reella markfarten växer med kosinus av latituden.",
+    "fun_fact": "Vid 15°N gör jordytan en varv på 24 timmar men sträcker sig 38 700 km. Räkna ut: det är omkretsen vid den breddgraden, varje person där tillryggalägger den distansen varje dygn.",
+    "invite_text": "Möte 16:12? Jordens rotation vid Dakars och Manilas breddgrad."
+  },
+  "16:20": {
+    "label": "1620 km/h",
+    "title": "Tokarev 7.62×25, mynning",
+    "description": "Mynningshastighet för Tokarev 7.62×25-patronen, 450 m/s. En av de snabbaste pistolkulorna någonsin, konstruerad för Sovjetunionens TT-33-pistol från 1933.",
+    "fun_fact": "Tokarev-kulan är ökänd för att tränga genom kroppsskydd som är designade för 9 mm. Den har använts som standard i öst-block och Kina långt in på 2000-talet.",
+    "invite_text": "Möte 16:20? Mynningshastigheten för en Tokarev 7.62×25."
+  },
+  "16:33": {
+    "label": "1633 km/h",
+    "title": "Mach 1,33 vid havsnivå",
+    "description": "Mach 1,33 vid 20 °C och havsnivå. Området där moderna strid-stridsflygplan kan hålla kontinuerlig supersonisk flygning i kortare tid på låg höjd.",
+    "fun_fact": "Tidiga jetplan från 1950-talet kunde bara nå supersonisk fart i korta dykningar. Moderna plan gör det på efterbrännare i horisontell flykt, men på bekostnad av extrem bränsleförbrukning.",
+    "invite_text": "Möte 16:33? Mach 1,33 vid havsnivå."
+  },
+  "16:44": {
+    "label": "1644 km/h",
+    "title": "Jordens rotation vid 10°N",
+    "description": "På 10 graders norr, ungefär Bangkok, Caracas och Addis Abeba, rör sig jordytan 1644 km/h. Här är vi bara 25 km/h från ekvatorns fulla rotationsfart.",
+    "fun_fact": "Kennedy Space Center ligger på 28°N vilket ger satellituppskjutningar en extra boost på 1500 km/h. Ryska Baikonur på 45°N får bara 1060 km/h gratis.",
+    "invite_text": "Möte 16:44? Jordens rotation vid Bangkoks breddgrad."
   },
   "16:59": {
     "label": "1669 km/h",
@@ -195,6 +356,41 @@
     "fun_fact": "Jaguar var resultatet av ett av de första större europeiska försvarsamarbetena. Teknisk integration mellan brittiska och franska ingenjörer blev mall för senare projekt som Eurofighter.",
     "invite_text": "Möte 17:00? Toppfart för en SEPECAT Jaguar."
   },
+  "17:10": {
+    "label": "1710 km/h",
+    "title": "Mach 1,4 vid havsnivå",
+    "description": "Mach 1,4 vid 20 °C och havsnivå. Den lokala maxfarten för en attackflygplan i horisontell flykt innan luftmotståndet tar över effektuttaget helt.",
+    "fun_fact": "Vid Mach 1,4 möter vingens framkant så högt dynamiskt tryck att den värms upp till 70 °C även vid minusgrader i omgivningen. Friktionsvärmen är aerodynamikens egen värmekälla.",
+    "invite_text": "Möte 17:10? Mach 1,4 vid havsnivå."
+  },
+  "17:43": {
+    "label": "1743 km/h",
+    "title": "Northrop F-5E Tiger II, maxfart",
+    "description": "Toppfart Mach 1,63 för Northrop F-5E Tiger II, ett lätt amerikanskt jaktplan exporterat brett under kalla kriget. Fortfarande i tjänst i flera länders flygvapen.",
+    "fun_fact": "F-5E är så billig och pålitlig att USA själva har använt den som aggressor-plan i träning, för att simulera sovjetiska MiG-21 under övningar mot egna stridspiloter.",
+    "invite_text": "Möte 17:43? Toppfart för en Northrop F-5E Tiger II."
+  },
+  "18:13": {
+    "label": "1813 km/h",
+    "title": "Mach 1,48 vid havsnivå",
+    "description": "Mach 1,48 vid 20 °C och havsnivå. Området där stridsflygplan har en ren termisk gräns: vingens nosradie värms upp till 200 °C på några sekunder.",
+    "fun_fact": "Lockheed SR-71 Blackbird byggdes av titan just för att vanligt stål skulle mjukna vid de temperaturer planet drog upp vid Mach 3. Titan klarar 600 °C utan att förlora styrka.",
+    "invite_text": "Möte 18:13? Mach 1,48 vid havsnivå."
+  },
+  "18:38": {
+    "label": "1838 km/h",
+    "title": "Mach 1,5 vid havsnivå",
+    "description": "Mach 1,5 vid 20 °C och havsnivå. Gränsen där moderna stridsflygplan kan hålla supersonisk fart utan efterbrännare, en egenskap som kallas supercruise.",
+    "fun_fact": "Supercruise-förmågan är ovanlig. Bara F-22 Raptor, Eurofighter Typhoon och några ryska plan som Su-57 och PAK-FA klarar det praktiskt.",
+    "invite_text": "Möte 18:38? Mach 1,5 vid havsnivå, gränsen för supercruise."
+  },
+  "19:03": {
+    "label": "1903 km/h",
+    "title": "F/A-18E Super Hornet, maxfart",
+    "description": "Toppfart Mach 1,8 för Boeing F/A-18E Super Hornet på hög höjd. USA:s hangarfartygsburna stridsflygplan sedan 1999.",
+    "fun_fact": "Super Hornet startar och landar på hangarfartyg med hjälp av ångdriven katapult och arresterkrok. Piloten upplever 4 g vid start och 3 g vid nedsatt fart till stopp.",
+    "invite_text": "Möte 19:03? Toppfart för en F/A-18E Super Hornet."
+  },
   "19:12": {
     "label": "1912 km/h",
     "title": "Dassault Rafale, maxfart",
@@ -208,5 +404,19 @@
     "description": "Toppfart Mach 1,6 för Lockheed Martins stridsflygplan F-35. Första gången planet levererades 2015, och det är världens dyraste försvarsprojekt genom tiderna.",
     "fun_fact": "F-35-programmet kostar hittills över 17 000 miljarder kronor. Det är mer än Sveriges totala BNP under tre år.",
     "invite_text": "Möte 19:30? Toppfart för ett F-35 Lightning II."
+  },
+  "19:38": {
+    "label": "1938 km/h",
+    "title": "F-22 Raptor supercruise",
+    "description": "Kontinuerlig supersonisk marschfart Mach 1,82 för Lockheed Martins F-22 Raptor, utan efterbrännare. Supercruise-farten är en av planets viktigaste egenskaper.",
+    "fun_fact": "Supercruise halverar bränsleförbrukningen jämfört med vanlig Mach 1-flykt. F-22 kan därför hålla supersonisk fart hundratals kilometer in i fiendens område utan att behöva återtanka.",
+    "invite_text": "Möte 19:38? F-22 Raptors supercruise."
+  },
+  "19:55": {
+    "label": "1955 km/h",
+    "title": "McDonnell F-101 Voodoo, maxfart",
+    "description": "Toppfart Mach 1,72 för McDonnell F-101 Voodoo. En av USA:s första operativa supersoniska jaktplan, i tjänst från 1957 till 1982.",
+    "fun_fact": "F-101 Voodoo satte världsrekord i hastighet över rakbana 1957 och höll det fram till 1959, då ett Lockheed F-104 Starfighter slog det.",
+    "invite_text": "Möte 19:55? Toppfart för en F-101 Voodoo."
   }
 }
