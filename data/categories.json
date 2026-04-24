@@ -11,7 +11,7 @@
     "name": "Frekvens/Toner",
     "unit": "Hz",
     "description": "Klockslaget som ljudfrekvens och ton",
-    "enabled": false
+    "enabled": true
   },
   {
     "id": "distance",

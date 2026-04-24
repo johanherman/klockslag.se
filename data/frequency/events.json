@@ -1,0 +1,212 @@
+{
+  "07:00": {
+    "label": "700 Hz · nära F5",
+    "title": "Ett långdraget tåghorn",
+    "description": "Strax under F5 (698,5 Hz). Ungefär den ton du hör när ett godståg drar en sjömils luftsignal över kvällsslätten.",
+    "fun_fact": "F5 ligger över sopranens normalregister. Vanliga kvinnoröster sjunger sällan högre än E5.",
+    "invite_text": "Möte 07:00? Exakt tonhöjden på ett godståg som tjuter långt bort."
+  },
+  "07:40": {
+    "label": "740 Hz · F#5",
+    "title": "F#5, en ton i operasopranens övre register",
+    "description": "Exakt F#5 (739,99 Hz). Samma ton som Drottningen av natten skriker fram på i Trollflöjten när hon tappar tålamodet.",
+    "fun_fact": "Drottningen av natten-arian går upp till F6, en hel oktav högre än detta. Endast ett par sångerskor i världen klarar den live.",
+    "invite_text": "Möte 07:40? Tonhöjden där Drottningen av natten börjar bli otrevlig."
+  },
+  "08:15": {
+    "label": "815 Hz · mellan G5 och G#5",
+    "title": "Tonen i en plastvisselpipa",
+    "description": "Mellan G5 (784 Hz) och G#5 (830,6 Hz). Frekvensen som en enkel plastvisselpipa från en fotbollsmatch ofta landar på.",
+    "fun_fact": "Domarens visselpipa har ofta två kamrar som skapar en snabb svängning mellan två toner, inte en ren sinuston.",
+    "invite_text": "Möte 08:15? Samma tonhöjd som en fotbollsdomares visselpipa."
+  },
+  "08:30": {
+    "label": "830 Hz · G#5",
+    "title": "G#5 på pricken",
+    "description": "Exakt G#5 / Ab5 (830,61 Hz). Tonen som går igenom i en mobiltelefons SMS-ljud på många äldre Sony Ericsson-modeller.",
+    "fun_fact": "G#5 och Ab5 är samma ton. Vilket namn som används beror på vilken tonart musiken står i.",
+    "invite_text": "Möte 08:30? Tonen i den klassiska Sony Ericsson-pipsignalen."
+  },
+  "09:11": {
+    "label": "911 Hz · nära A5",
+    "title": "Strax ovanför kammartonen A5",
+    "description": "Lite över A5 (880 Hz), som är en oktav ovanför A4 (440 Hz). A4 är kammartonen som hela västerländsk musik stämmer mot.",
+    "fun_fact": "Innan 1939 varierade kammartonen mellan 415 och 466 Hz i olika länder. Konferensen i London standardiserade 440 Hz.",
+    "invite_text": "Möte 09:11? Strax ovanför kammartonens oktav."
+  },
+  "09:32": {
+    "label": "932 Hz · A#5",
+    "title": "A#5 på pricken",
+    "description": "Exakt A#5 / Bb5 (932,33 Hz). Samma ton som startnoten i Nokia-ringsignalen när den spelas ren, utan kyrkoklocka-eko.",
+    "fun_fact": "Nokia tune är en utdragen fras från Francisco Tárregas gitarrstycke Gran Vals från 1902.",
+    "invite_text": "Möte 09:32? Startnoten i Nokias ringsignal."
+  },
+  "09:55": {
+    "label": "955 Hz · nära B5",
+    "title": "Precis under B5",
+    "description": "Lite under B5 (987,77 Hz). B5 är den högsta tonen i de flesta amatörsångares normalregister, innan huvudklangen tar över.",
+    "fun_fact": "Kvinnors talröst ligger typiskt kring 165 till 255 Hz. Att sjunga B5 är nästan två oktaver över talet.",
+    "invite_text": "Möte 09:55? Strax under den ton du tappar andan på."
+  },
+  "10:00": {
+    "label": "1000 Hz · ISO-referens",
+    "title": "Hörseltestets testton",
+    "description": "1000 Hz är referensfrekvensen för ISO 226, standarden för hur örat uppfattar ljudstyrka. Varje hörseltest börjar här.",
+    "fun_fact": "Örat är som känsligast kring 2 till 4 kHz, frekvenser där spädbarnsskrik och bromsskrik bor.",
+    "invite_text": "Möte 10:00? Frekvensen varje hörseltest börjar med."
+  },
+  "10:20": {
+    "label": "1020 Hz · mellan B5 och C6",
+    "title": "Ungefär en tekokares pipa",
+    "description": "Mellan B5 (987 Hz) och C6 (1046 Hz). En vanlig visselkokares pipa ligger någonstans i detta intervall när vattnet just börjar koka.",
+    "fun_fact": "Pipan sjunker i ton när ångtrycket stiger. Den skarpa första signalen är högre, sen sjunker den mot en jämnare ton.",
+    "invite_text": "Möte 10:20? Tekokaren börjar pipa."
+  },
+  "10:47": {
+    "label": "1047 Hz · C6, sopranens höga C",
+    "title": "High C",
+    "description": "C6 (1046,5 Hz), sopranens famösa höga C. Tonen som Pavarotti byggde hela karriärer på att kunna nå utan att skrika.",
+    "fun_fact": "Luciano Pavarotti blev kallad 'kungen av höga C' efter en föreställning 1972 där han slog i nio stycken C6 i rad i La Fille du Régiment.",
+    "invite_text": "Möte 10:47? Sopranens höga C."
+  },
+  "11:09": {
+    "label": "1109 Hz · C#6",
+    "title": "C#6 på pricken",
+    "description": "Exakt C#6 / Db6 (1108,73 Hz). Tonhöjden på en vanlig dörrklocka i många äldre flerfamiljshus, en ding-ton strax över sopranens höga C.",
+    "fun_fact": "Klassiska dörrklockor spelar ofta två toner: en högre vid tryck, en lägre vid släpp. Ding-dong är vanligen C#6 till A5.",
+    "invite_text": "Möte 11:09? Dörrklockans ding-ton."
+  },
+  "11:47": {
+    "label": "1147 Hz · nära D6",
+    "title": "Strax under D6",
+    "description": "Nära D6 (1174,66 Hz). Tonhöjden där piccolaflöjten börjar kännas skarp i örat när hela orkestern spelar pianissimo runt omkring.",
+    "fun_fact": "Piccolaflöjten når upp till C8 (4186 Hz). Den kan ensam höras genom en hel symfoniorkester i full fart.",
+    "invite_text": "Möte 11:47? Ungefär där piccolaflöjten börjar skära i örat."
+  },
+  "12:00": {
+    "label": "1200 Hz · morsesignalton",
+    "title": "Standardtonen i morsesignaler",
+    "description": "1200 Hz är en vanlig frekvens för morsesändare och radiotelegrafi. Tillräckligt högt för att stå ut från brummande brus, lågt nog att inte skada örat.",
+    "fun_fact": "Internationella nödsignalen SOS (tre korta, tre långa, tre korta) är inte en förkortning. Den valdes för att den är svår att missförstå i morse.",
+    "invite_text": "Möte 12:00? Frekvensen som användes på radiotelegrafens storhetstid."
+  },
+  "12:45": {
+    "label": "1245 Hz · D#6",
+    "title": "D#6 på pricken",
+    "description": "Exakt D#6 / Eb6 (1244,51 Hz). Ett litet intervall under E6 är tonhöjden där en barnvisselpipa mest sticker i öronen på föräldrarna.",
+    "fun_fact": "Människans öra är känsligast i intervallet 2 till 5 kHz, men även 1 kHz-området uppfattas tydligt och används ofta till alarm.",
+    "invite_text": "Möte 12:45? Tonhöjden där en barnvisselpipa börjar göra ont."
+  },
+  "13:18": {
+    "label": "1318 Hz · E6",
+    "title": "E6, violinens öppna E en oktav upp",
+    "description": "Exakt E6 (1318,51 Hz). Violinens öppna E-sträng är E5 (659 Hz). Detta är samma ton en oktav högre, i samma register som solisten ofta tar sig upp till.",
+    "fun_fact": "Stradivarius och Guarneri del Gesù byggde sina mest kända violiner kring 1700-talets början. De bästa instrumenten är över 300 år gamla.",
+    "invite_text": "Möte 13:18? Violinens öppna E, en oktav upp."
+  },
+  "13:37": {
+    "label": "1337 Hz · nära E6",
+    "title": "Frekvensen som låter som den ser ut",
+    "description": "Strax över E6. Talet 1337 är datorslang för 'leet' (elite), skrivet med siffror istället för bokstäver. Som ljud är det en skarp, entydig pipton.",
+    "fun_fact": "1337-språket uppstod i BBS-kulturen på 1990-talet, där filter blockerade vissa ord. Att byta bokstäver mot siffror kringgick filtren.",
+    "invite_text": "Möte 13:37? Tonhöjden nära E6, men framför allt den mest nördiga frekvensen som finns."
+  },
+  "14:00": {
+    "label": "1400 Hz · siren peak",
+    "description": "Ungefär toppfrekvensen på en svensk ambulanssiren när den sveper uppåt. Frekvensen är vald för att skära igenom trafikbrus utan att vara direkt skadlig.",
+    "title": "Ambulansens topp",
+    "fun_fact": "Amerikanska och europeiska sirener skiljer sig markant. USA kör pulserande två-tons, Europa vanligen kontinuerlig sweep.",
+    "invite_text": "Möte 14:00? Ambulanssirenens toppton."
+  },
+  "14:40": {
+    "label": "1440 Hz · mellan F6 och F#6",
+    "title": "Mellan F6 och F#6",
+    "description": "Mellan F6 (1396 Hz) och F#6 (1480 Hz). Detta är ungefär frekvensen på en klassisk telefonlur med rington.",
+    "fun_fact": "Svensk rington bestod traditionellt av 425 Hz i 1 sekund, paus, sen om igen. Två toner samtidigt är amerikanskt.",
+    "invite_text": "Möte 14:40? Ungefär tonen i en klassisk telefonlur."
+  },
+  "15:00": {
+    "label": "1500 Hz · radiokommunikation",
+    "title": "Talfrekvensens översta",
+    "description": "Den övre gränsen för vad som brukar räknas som talfrekvens i radiokommunikation. Över 1500 Hz hamnar s-ljud och skarpa konsonanter.",
+    "fun_fact": "Traditionell telefoni filtrerade bort allt över 3400 Hz för att spara bandbredd. Därför låter gamla telefonsamtal lite dova.",
+    "invite_text": "Möte 15:00? Där talets skarpa konsonanter börjar."
+  },
+  "15:30": {
+    "label": "1530 Hz · nära F#6",
+    "title": "Strax över F#6",
+    "description": "Strax över F#6 (1479,98 Hz). Tonhöjden där en myggdödarlampa zappar en insekt om du skulle översätta den korta urladdningen till en ren ton.",
+    "fun_fact": "Mygg hör bäst kring 200 till 2000 Hz, ungefär samma register som människor. De går inte på ultraljudsavvisare som många tror.",
+    "invite_text": "Möte 15:30? Ungefär en myggdödarlampa."
+  },
+  "15:55": {
+    "label": "1555 Hz · nära G6",
+    "title": "En bit under G6",
+    "description": "Nära G6 (1568 Hz). Den högsta tonen i de flesta sopransaxofoners komfortabla register, innan altissimo-tekniken tar vid.",
+    "fun_fact": "John Coltrane förde saxofonens höga register fram som ett uttryck i sig. Altissimo-toner i jazzen blev signatur på 1960-talet.",
+    "invite_text": "Möte 15:55? Sopransaxens övre gräns."
+  },
+  "16:11": {
+    "label": "1611 Hz · telefonfrekvens",
+    "title": "Den nordiska upptagetsignalen",
+    "description": "Lite över den nordiska upptagetsignalen (425 Hz) multiplicerat. 1611 Hz är intressant eftersom det är ungefär frekvensen där en gammal fax börjar sin handshaketon.",
+    "fun_fact": "Faxmaskinens karaktäristiska pip-pip-brrr är en förhandling. Två maskiner testar vilka protokoll och hastigheter de båda stöder.",
+    "invite_text": "Möte 16:11? Ungefär frekvensen där en fax börjar sin handshake."
+  },
+  "16:43": {
+    "label": "1643 Hz · nära G#6",
+    "title": "Strax under G#6",
+    "description": "Nära G#6 / Ab6 (1661,22 Hz). Frekvensen där brandvarnaren ofta landar när den testar sig själv en gång i månaden och skrämmer slag på hela familjen.",
+    "fun_fact": "Brandvarnare sänder kring 3000 till 4000 Hz för att väcka sovande. 1600 Hz är den lägre testsignalen vissa modeller använder.",
+    "invite_text": "Möte 16:43? Tonen som brandvarnaren testar sig själv med."
+  },
+  "17:00": {
+    "label": "1700 Hz · mellan G#6 och A6",
+    "title": "Mellan G#6 och A6",
+    "description": "Mellan G#6 (1661 Hz) och A6 (1760 Hz). Ungefär övre gränsen för den fundamentala tonen i en sopran som sjunger ut i operahus utan mikrofon.",
+    "fun_fact": "Maria Callas kunde hålla en Eb6 i över 15 sekunder. Dessa höga toner bärs inte av fundamentalfrekvensen utan av övertonsstrukturen.",
+    "invite_text": "Möte 17:00? Ungefär där en operasopran stannar."
+  },
+  "17:30": {
+    "label": "1730 Hz · nära A6",
+    "title": "Strax under A6",
+    "description": "Strax under A6 (1760 Hz). A6 är tre oktaver över kammartonen. Man kan nästan höra den som visslad, inte som sjungen.",
+    "fun_fact": "Människans visselområde ligger ofta mellan 500 och 5000 Hz. Rekordet i världens högsta visslade ton är ungefär 10 kHz.",
+    "invite_text": "Möte 17:30? Tre oktaver över kammartonen, nästan."
+  },
+  "17:55": {
+    "label": "1755 Hz · nära A6",
+    "title": "A6, tre oktaver över kammartonen",
+    "description": "Strax under A6 (1760 Hz). Tre oktaver över A4 (440 Hz), referenstonen som hela orkestern stämmer mot innan konserten börjar.",
+    "fun_fact": "Oboen ger tonen vid orkesterstämning eftersom dess ton är svårast att dölja om den är orent. Alla andra stämmer efter oboen.",
+    "invite_text": "Möte 17:55? Tre oktaver över den ton oboen ger orkestern."
+  },
+  "18:15": {
+    "label": "1815 Hz · mellan A6 och A#6",
+    "title": "Mellan A6 och A#6",
+    "description": "Mellan A6 (1760 Hz) och A#6 (1864 Hz). Frekvens som ligger i området där små fåglar ropar på varandra över en svensk sommaräng.",
+    "fun_fact": "Sädesärlan och gärdsmygen sjunger i området 3 till 8 kHz. Deras sång är så hög att många äldre inte hör dem.",
+    "invite_text": "Möte 18:15? Ungefär där små fåglar håller sin konversation."
+  },
+  "18:55": {
+    "label": "1855 Hz · nära A#6",
+    "title": "Strax under A#6",
+    "description": "Strax under A#6 / Bb6 (1864,66 Hz). Tonen där en glasharmonika börjar kännas genomträngande, det som Benjamin Franklin uppfann på 1760-talet.",
+    "fun_fact": "Glasharmonika förbjöds i flera tyska städer eftersom man trodde att den framkallade galenskap hos både spelare och åhörare.",
+    "invite_text": "Möte 18:55? En ton som enligt 1700-talsläkare kunde göra en galen."
+  },
+  "19:30": {
+    "label": "1930 Hz · nära B6",
+    "title": "Strax under B6",
+    "description": "Strax under B6 (1975 Hz). Vi är nu fyra oktaver över kammartonen A4. Här börjar det mesta låta mer som ett larm än som musik.",
+    "fun_fact": "Pianot går upp till C8 (4186 Hz), den högsta tangenten på ett standardpiano. Den används nästan aldrig i riktig musik.",
+    "invite_text": "Möte 19:30? Fyra oktaver över kammartonen, där musiken börjar bli till larm."
+  },
+  "19:55": {
+    "label": "1955 Hz · nära B6",
+    "title": "B6 i örnens hörselområde",
+    "description": "Nära B6 (1975 Hz). Frekvens där örnen hör som bäst när den spanar efter sorkar. Människan uppfattar tonen, men inte detaljerna.",
+    "fun_fact": "Kungsörnens hörsel är jämförbar med människans i övre området, men dess syn är nästan tre gånger skarpare än vår.",
+    "invite_text": "Möte 19:55? Frekvensen där örnen lyssnar efter sorkar."
+  }
+}
