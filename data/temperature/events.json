@@ -20,6 +20,34 @@
     "fun_fact": "Gotlands kalkugnar från medeltiden håller fortfarande. Samma grundprincip används idag för att göra cement.",
     "invite_text": "Möte 08:00? Temperaturen där kalksten blir bränd kalk i ugnen."
   },
+  "08:10": {
+    "label": "810 °C",
+    "title": "Grafitens syrebrytningspunkt",
+    "description": "Grafit, reduktionsmedlet i masugnen, börjar oxidera märkbart runt 810 °C när det utsätts för luft. Därför måste ugnens innanmäte hållas från syre för att kolet ska räcka till reduktionen.",
+    "fun_fact": "Grafit tål ofta mycket högre temperaturer i vakuum eller inert gas, upp mot 3600 °C. Det är kontakten med syre som ställer till det, inte värmen i sig.",
+    "invite_text": "Möte 08:10? Där grafit börjar brinna i luften."
+  },
+  "08:22": {
+    "label": "822 °C",
+    "title": "Högtemperaturlodets flytpunkt",
+    "description": "Högtemperaturlod i silver-palladium-legering flyter vid cirka 820 till 830 °C. Används för fogar som ska klara drifttemperaturer där vanliga silverlöd skulle smälta av själva värmen.",
+    "fun_fact": "Högtemperaturlod används i gasturbiner och kemisk industri. Fogen måste klara det som omger den, inte bara montagetillfället.",
+    "invite_text": "Möte 08:22? Högtemperatur-silverlödets flytpunkt."
+  },
+  "08:38": {
+    "label": "838 °C",
+    "title": "Ståls normalisering",
+    "description": "Vanligt kolstål normaliseras mellan 830 och 870 °C. Stålet värms tills kristallstrukturen omvandlas till austenit, sen kyls i luft. Behandlingen jämnar ut spänningar efter valsning eller smide.",
+    "fun_fact": "Normalisering är inte samma som härdning. Stålet kyls långsamt i luft istället för snabbt i olja eller vatten, och blir förutsägbart för maskinbearbetning istället för hårt.",
+    "invite_text": "Möte 08:38? Kolstålets normaliseringstemperatur."
+  },
+  "08:44": {
+    "label": "844 °C",
+    "title": "Kopparens glödgning",
+    "description": "Koppar mjukgörs mellan 800 och 900 °C för att kunna hamras igen utan att spricka. Metallen bearbetas stel, glödgas, bearbetas igen, i cykler tills den är formad klart.",
+    "fun_fact": "Tibetanska kopparkärl är gjorda genom hundratals glödgningar. En vattenskål kan ta en hel vecka att forma utan att spricka i fogarna.",
+    "invite_text": "Möte 08:44? Där koppar glödgas mellan hamringar."
+  },
   "08:50": {
     "label": "850 °C",
     "title": "Skärveldsugn för keramik",
@@ -34,12 +62,26 @@
     "fun_fact": "En vedspis avger cirka 70 till 85 procent av sin energi som strålning och konvektion. Resten försvinner upp genom skorstenen.",
     "invite_text": "Möte 09:00? Temperaturen i kärnan av en vedeld på sin topp."
   },
+  "09:12": {
+    "label": "912 °C",
+    "title": "Järnet byter kristallstruktur",
+    "description": "Vid exakt 912 °C ändrar rent järn kristallstruktur från ferritisk till austenitisk. Övergången är avgörande för all härdning av stål.",
+    "fun_fact": "I austenitisk fas kan stål lösa upp mycket mer kol än i ferritisk. Värmer man stålet över 912, kolfyller det, och sen kyler snabbt, låses kolet in och metallen blir flera gånger hårdare.",
+    "invite_text": "Möte 09:12? Där järnet byter kristallstruktur."
+  },
   "09:32": {
     "label": "932 °C",
     "title": "Orange glöd, smidets mellanläge",
     "description": "Runt 932 °C lyser järn klart orange. Detta är smidestemperaturen för de flesta arbeten, varken för kallt eller så hett att metallen börjar sega.",
     "fun_fact": "Samurajsvärdets damaskstål smiddes med hundratals vikningar vid just denna temperatur. Varje vikning fördubblade antalet lager.",
     "invite_text": "Möte 09:32? Temperaturen där smeden faktiskt slår på ämnet."
+  },
+  "09:47": {
+    "label": "947 °C",
+    "title": "Där all mässing är flytande",
+    "description": "De flesta mässingslegeringar smälter mellan 900 och 940 °C. Vid 947 är praktiskt taget all mässing en flytande, gyllenbrun vätska redo att gjutas.",
+    "fun_fact": "Mässing är en legering av koppar och zink, känt sen åtminstone 500 f.Kr. Romerska mynt i gul mässing kallades aureii och påminde om guld, trots att de var mycket billigare att göra.",
+    "invite_text": "Möte 09:47? Där all mässing är flytande metall."
   },
   "09:55": {
     "label": "955 °C",
@@ -55,6 +97,13 @@
     "fun_fact": "Blixten värmer luften så snabbt att den expanderar med överljudshastighet. Det är därför vi hör åskknallen.",
     "invite_text": "Möte 10:00? Temperaturen i återgångsfasen efter en blixt."
   },
+  "10:10": {
+    "label": "1010 °C",
+    "title": "Cementugnens andra fas",
+    "description": "Vid 1010 °C är kalkstenen färdigkalcinerad och den fria kalkoxiden börjar reagera med kiseldioxid i ugnen. Det är andra steget mot cementklinkern, långt innan den är färdig.",
+    "fun_fact": "En modern cementugn är upp till 250 meter lång och roterar långsamt. Kalcit och lera matas in i ena änden, klinker rinner ut i andra vid 1450 °C.",
+    "invite_text": "Möte 10:10? Cementugnens andra reaktionsfas."
+  },
   "10:30": {
     "label": "1030 °C",
     "title": "Glasblåsarens pipa",
@@ -62,12 +111,26 @@
     "fun_fact": "Venetianska glasmästare var på 1200-talet så värdefulla att Venedig tvingade dem att bo på ön Murano. Att lämna ön utan tillstånd var belagt med dödsstraff.",
     "invite_text": "Möte 10:30? Glasblåsarens arbetstemperatur."
   },
+  "10:35": {
+    "label": "1035 °C",
+    "title": "Silver-palladium-lödets område",
+    "description": "Speciallod i silver-palladium-legering flyter kring 1035 °C, det högsta område vanligt hårdlod klarar innan nickelbaserade lod tar över. Används i rymd- och medicinteknik.",
+    "fun_fact": "Jetmotorer lödas ofta med nickelbaserade lodsmältor som klarar runt 1200 °C i drift. Lodfogens hållfasthet närmar sig grundmaterialets.",
+    "invite_text": "Möte 10:35? Silver-palladium-lödningens värmebad."
+  },
   "10:55": {
     "label": "1055 °C",
     "title": "Just innan guld smälter",
     "description": "Guld smälter vid 1064 °C. Vid 1055 är metallen röd-orange och börjar sätta sig. Ännu några sekunder och droppen rinner ut ur degeln.",
     "fun_fact": "Guld är så formbart att ett gram kan hamras ut till ett 0,000 1 mm tunt blad på en kvadratmeter. Det kallas bladguld.",
     "invite_text": "Möte 10:55? Nio grader under guldets smältpunkt."
+  },
+  "11:03": {
+    "label": "1103 °C",
+    "title": "Strax över kopparens smältpunkt",
+    "description": "Koppar smälter vid 1085 °C. Vid 1103 är metallen en ljusrött glödande vätska, överhettad så att den hinner rinna ner i formen utan att stelna för tidigt.",
+    "fun_fact": "Rent koppar är för mjukt för att göra redskap av. Den allra tidigaste kopparåldern var just ren koppar, tills någon råkade blanda med tenn och insåg hur mycket hårdare brons blev.",
+    "invite_text": "Möte 11:03? Där koppar flyter ljust rött."
   },
   "11:08": {
     "label": "1108 °C",
@@ -83,12 +146,26 @@
     "fun_fact": "Kinesiskt porslin från Ming-dynastin (1368 till 1644) anses oöverträffat. Receptet på den exakta leran hölls hemligt i 500 år.",
     "invite_text": "Möte 11:25? Porslinsugnens mellanläge."
   },
+  "11:35": {
+    "label": "1135 °C",
+    "title": "Nära Fe-C-systemets eutektikum",
+    "description": "Strax under Fe-C-systemets eutektiska temperatur (1147 °C). Austenitiskt järn kan här lösa upp nära 2 procent kol. Över den gränsen har kolet ingenstans att ta vägen och kristalliserar som grafit eller cementit.",
+    "fun_fact": "Fasdiagrammet för järn och kol är hjärtat i all stålmetallurgi. Det förklarar varför mjukt stål, gjutjärn och tackjärn är olika material trots att de består av samma två grundämnen.",
+    "invite_text": "Möte 11:35? Nära järn-kol-systemets maxgräns."
+  },
   "11:50": {
     "label": "1150 °C",
     "title": "Kolugnar och stenkolsmilor",
     "description": "Vid 1150 °C genomgår kol en torrdestillering som ger koks. Denna process driver hela järn- och stålindustrin, eftersom koks kan smälta järn i masugnen.",
     "fun_fact": "Första masugnen i Sverige byggdes kring 1250 i Lapphyttan. Järnmalmen från Bergslagen drev svensk ekonomi i 600 år.",
     "invite_text": "Möte 11:50? Koltunnans destillationstemperatur."
+  },
+  "12:05": {
+    "label": "1205 °C",
+    "title": "Stengodsugnens lägre gräns",
+    "description": "Stengods bränns mellan 1200 och 1300 °C. Vid 1205 har leran precis börjat vitrifiera och bli vattentät utan glasyr.",
+    "fun_fact": "Europeiska keramiker jagade i hundratals år efter receptet på kinesiskt porslin. Först 1708 lyckades Johann Friedrich Böttger i Meissen med en egen europeisk version.",
+    "invite_text": "Möte 12:05? Stengodsugnens nedre gräns."
   },
   "12:10": {
     "label": "1210 °C",
@@ -97,12 +174,26 @@
     "fun_fact": "Obsidian är naturens skarpaste material. Det används fortfarande i vissa kirurgiska knivblad eftersom eggen kan slipas tunnare än en stålkniv.",
     "invite_text": "Möte 12:10? Där vanlig sand börjar bli till glas."
   },
+  "12:25": {
+    "label": "1225 °C",
+    "title": "Blästerugnens arbetstemperatur",
+    "description": "En blästerugn, vikingatidens järnugn, arbetade kring 1225 °C. Järnmalmen reducerades till lupp, en slaggbemängd järnkaka som hamrades ut.",
+    "fun_fact": "En enda vikingatida blästerugn gav kanske 10 kilo järn per körning. Ett svärd förbrukade minst 2 kilo, alltså en femtedel av hela produktionen.",
+    "invite_text": "Möte 12:25? Vikingatidens järnugns-temperatur."
+  },
   "12:38": {
     "label": "1238 °C",
     "title": "Stålets smide i hetta",
     "description": "Kolstål blir optimalt smidbart kring 1200 till 1250 °C. Vid 1238 är metallen strålande gul-vit och så mjuk att smeden kan forma den med relativt små slag.",
     "fun_fact": "En traditionell smed värmer ämnet i horden tills man ser rätt färg, aldrig tills timern piper. Färgen är mer exakt än de flesta mätare.",
     "invite_text": "Möte 12:38? Stålets perfekta smidestemperatur."
+  },
+  "12:55": {
+    "label": "1255 °C",
+    "title": "Mulliten bildas i porslinet",
+    "description": "Vid 1255 °C bildas de första mullitkristallerna i finporslin. De ger keramiken sin styrka och håller den från att spricka i temperaturväxlingar.",
+    "fun_fact": "Mullit är den hållbara minerala fasen i allt högvärdigt porslin. Varje tekopp med 'fine bone china'-märkning innehåller minst 25 procent mullit.",
+    "invite_text": "Möte 12:55? Där mulliten bildas i porslinet."
   },
   "13:00": {
     "label": "1300 °C",
@@ -111,12 +202,33 @@
     "fun_fact": "Ordet porslin kommer från italienskans porcellana, en snäcka vars skal påminde Marco Polo om den kinesiska keramiken.",
     "invite_text": "Möte 13:00? Högbränningstemperatur för porslin."
   },
+  "13:05": {
+    "label": "1305 °C",
+    "title": "Smidessvetsens temperatur",
+    "description": "Vid 1305 °C är stål tillräckligt hett att svetsas ihop utan tillsatsmaterial, en teknik som kallas smidessvets. Två ämnen läggs ihop och slås till en enhet.",
+    "fun_fact": "Smidessvets är den äldsta svetsmetoden och användes redan av hettiterna omkring 1500 f.Kr. Dagens elektroder svetsar snabbare men kallare och kräver tillsatsmaterial.",
+    "invite_text": "Möte 13:05? Stålets smidessvetsningstemperatur."
+  },
+  "13:22": {
+    "label": "1322 °C",
+    "title": "Kopparhyttans reverbugn",
+    "description": "Reverbugnen i traditionellt kopparsmältverk arbetar kring 1320 °C. Kopparmalmen smälter och slagg flyter ovanpå, sen tappas kopparen av från botten.",
+    "fun_fact": "Kopparproduktion kräver 10 till 15 procent mer energi per kilo färdig metall jämfört med stål. Därför är koppar historiskt sett en dyrare råvara, trots att malmen ofta ligger ytligare.",
+    "invite_text": "Möte 13:22? Reverbugnens arbetstemperatur i kopparhyttan."
+  },
   "13:38": {
     "label": "1338 °C",
     "title": "Platina börjar mjukna",
     "description": "Platina smälter först vid 1768 °C, men börjar mjukna märkbart runt 1338. Det är orsaken till att metallen under lång tid var nästintill omöjlig att bearbeta utanför labb.",
     "fun_fact": "Platina var för spanska erövrare i 1500-talets Sydamerika en skräpmetall, omöjlig att smälta. Namnet kommer från platina del Pinto, 'det lilla silvret från floden Pinto'.",
     "invite_text": "Möte 13:38? Där platina precis börjar ge sig."
+  },
+  "13:55": {
+    "label": "1355 °C",
+    "title": "Blykristallens smältbad",
+    "description": "Blykristallglas smälts i potter vid cirka 1350 °C. Den lägre smältpunkten än vanligt fönsterglas kommer av blyoxiden, som också ger glaset dess tunga klang och höga brytningsindex.",
+    "fun_fact": "Blyhalten i vinglas av blykristall kan vara upp till 30 procent. Moderna varianter ersätter bly med barium eller zink, eftersom surt innehåll annars kan lösa ut små mängder bly.",
+    "invite_text": "Möte 13:55? Blykristallens smältbad."
   },
   "14:00": {
     "label": "1400 °C",
@@ -125,12 +237,40 @@
     "fun_fact": "En Bessemerugn på 1800-talet kunde omvandla 20 ton järn till stål på 20 minuter genom att blåsa luft genom smältan. Kolet brändes bort, och värmen räckte till att hålla massan flytande.",
     "invite_text": "Möte 14:00? Där stål går från fast till flytande."
   },
+  "14:14": {
+    "label": "1414 °C",
+    "title": "Kiselts smältpunkt",
+    "description": "Kisel smälter vid exakt 1414 °C. Hela halvledarindustrin bygger på smält kisel, som odlas till enorma enkristaller och skivas till wafers för mikrochip.",
+    "fun_fact": "En enda kiselkristall för mikrochip kan väga över 300 kilo och dras på en vecka ur smältugnen. Kristallen skivas sen med diamantklinga till wafers tunnare än en papperskant.",
+    "invite_text": "Möte 14:14? Kiselts smältpunkt på pricken."
+  },
+  "14:22": {
+    "label": "1422 °C",
+    "title": "Stränggjutning av stål",
+    "description": "Flytande stål matas kontinuerligt ut ur stränggjutmaskiner vid cirka 1420 °C. Rätt temperatur, och stålet stelnar gradvis till en oändlig stång av halvfabrikat.",
+    "fun_fact": "Modern stränggjutning ersatte tackgjutning under 1970-talet. Den kan spara omkring 12 procent av materialet genom att slippa efterbearbeta formar och spillbitar.",
+    "invite_text": "Möte 14:22? Stränggjutmaskinens smältbad."
+  },
+  "14:38": {
+    "label": "1438 °C",
+    "title": "Råjärnets tappningstemperatur",
+    "description": "En masugn tappar råjärn kring 1400 till 1500 °C. Vid 1438 är flödet tjockt nog att bäras av rännan men tunt nog att rinna kontrollerat i formarna.",
+    "fun_fact": "Råjärn från masugnen innehåller 4 till 5 procent kol och är för sprött att bearbeta. Det måste först omvandlas till stål genom att kolhalten minskas i ett syrestålsverk.",
+    "invite_text": "Möte 14:38? Råjärnet rinner ur masugnen."
+  },
   "14:55": {
     "label": "1455 °C",
     "title": "Nickel smälter",
     "description": "Nickel smälter vid 1455 °C. Nickel är huvudkomponenten i superlegeringar som används i jetmotorer, där blad utsätts för hetta bara hundra grader under sin smältpunkt.",
     "fun_fact": "Svenska 5-kronan består av 75 procent koppar och 25 procent nickel. Kombinationen ger guldlik färg utan att kosta en förmögenhet.",
     "invite_text": "Möte 14:55? Nickels smältpunkt på pricken."
+  },
+  "15:05": {
+    "label": "1505 °C",
+    "title": "Snabbstålets gjutning",
+    "description": "Snabbstål för skärverktyg gjuts runt 1500 °C. Legeringen innehåller wolfram, molybden, vanadin och krom, och vid rätt behandling håller ett borrstål i drift nästan röd het.",
+    "fun_fact": "Snabbstål uppfanns 1898 av Taylor och White. Deras nya stål kunde skära dubbelt så snabbt som föregångarna och revolutionerade verkstadsindustrin över en natt.",
+    "invite_text": "Möte 15:05? Snabbstålet gjuts i formen."
   },
   "15:20": {
     "label": "1520 °C",
@@ -139,12 +279,26 @@
     "fun_fact": "Rostfritt stål uppfanns av Harry Brearley 1913 i Sheffield medan han sökte ett material för gevärslopp som inte skulle rosta. Han lyckades inte med geväret, men revolutionerade resten av metallvärlden.",
     "invite_text": "Möte 15:20? Där rostfritt stål blir flytande."
   },
+  "15:28": {
+    "label": "1528 °C",
+    "title": "Kobolts smältpunkt passerad",
+    "description": "Kobolt smälter vid 1495 °C. Vid 1528 är smältan flytande och flödar redo för gjutning. Kobolt är legeringsbas för många superlegeringar i flyg- och jetmotorer.",
+    "fun_fact": "Namnet kobolt kommer från tyska Kobold, en gnome som medeltida silvergruvarbetare trodde hade förhäxat silvermalm till värdelös sten. Kobolten gjorde malmen omöjlig att reducera med den tidens metoder.",
+    "invite_text": "Möte 15:28? 33 grader över kobolts smältpunkt."
+  },
   "15:38": {
     "label": "1538 °C",
     "title": "Ren järn smälter",
     "description": "Rent järn smälter vid exakt 1538 °C. All järnbaserad metallurgi bygger på denna temperatur. Legeringar och föroreningar sänker den typiskt med 100 till 300 grader.",
     "fun_fact": "Järn i Jordens kärna är flytande vid mycket högre tryck än på ytan. Man tror att kärnans innersta del, trots temperaturer upp mot 5500 °C, är fast igen på grund av trycket.",
     "invite_text": "Möte 15:38? Ren järns smältpunkt."
+  },
+  "15:50": {
+    "label": "1550 °C",
+    "title": "Ståls raffinering",
+    "description": "Flytande stål hålls vid 1550 °C under raffinering i skänk. Slagg sugs av ytan, legeringar tillsätts, och gaser blåses igenom för att få rätt sammansättning.",
+    "fun_fact": "Moderna stålverk använder argongas för att omröra smältan utan att oxidera den. Vakuum-avgasning tar sen bort vätet som annars skulle göra stålet sprött.",
+    "invite_text": "Möte 15:50? Ståls slutraffinering i skänk."
   },
   "16:00": {
     "label": "1600 °C",
@@ -153,12 +307,33 @@
     "fun_fact": "En modern masugn producerar 10 000 ton råjärn per dygn. En medeltida osmund-ugn gav kanske 100 kilo per vecka.",
     "invite_text": "Möte 16:00? Masugnens arbetstemperatur."
   },
+  "16:10": {
+    "label": "1610 °C",
+    "title": "Bessemer-konverterns flampunkt",
+    "description": "En Bessemer-konverter når momentant kring 1610 °C när syre blåses genom råjärnssmältan och kolet brinner. Flamman som slår upp är så ljus att vita blossar omger hela verkstaden.",
+    "fun_fact": "Första svenska Bessemer-verket stod klart i Edsken 1858. Konvertern tog 20 minuter att tömma 10 ton råjärn till stål, ett tempo ingen annan metod mäktade med.",
+    "invite_text": "Möte 16:10? Bessemer-konverterns flamtemperatur."
+  },
+  "16:22": {
+    "label": "1622 °C",
+    "title": "Rostfrittens skyddsskikt ger vika",
+    "description": "Kromoxid, det passiva skiktet som gör rostfritt stål rostfritt, börjar brytas ner över 1600 °C. Vid 1622 faller skyddet ur, och legeringen reagerar med syre som vilket stål som helst.",
+    "fun_fact": "Oxidskiktet på rostfritt stål är bara 2 till 5 nanometer tjockt. Ett svartpeppar-korn skulle vara en miljon gånger tjockare.",
+    "invite_text": "Möte 16:22? Där rostfrittens skyddsskikt ger vika."
+  },
   "16:30": {
     "label": "1630 °C",
     "title": "Mangan smälter och manganstål gjuts",
     "description": "Mangan smälter vid 1246 °C men manganlegerat stål hanteras kring 1630. Mangansstålen är så hårda att kristallvibrationer uppstår när de bearbetas.",
     "fun_fact": "Hadfields manganstål (patenterat 1882) används fortfarande i bandbilars band och i järnvägsväxlar. Det är nästan omöjligt att slita ut.",
     "invite_text": "Möte 16:30? Där manganstålet gjuts."
+  },
+  "16:42": {
+    "label": "1642 °C",
+    "title": "Titans smältgräns närmar sig",
+    "description": "Titan smälter vid 1668 °C. Vid 1642 är metallen inom 26 grader från smältan, vit-glödande och plastisk, men fortfarande fast. Gjutning av titan måste ske i noga kontrollerad atmosfär.",
+    "fun_fact": "Flytande titan reagerar med nästan allt, även med formen det gjuts i. Gjuterier använder keramiska formar beklädda med ytor av titanoxid eller grafit, som inte upptas av smältan.",
+    "invite_text": "Möte 16:42? 26 grader under titans smältpunkt."
   },
   "16:55": {
     "label": "1655 °C",
@@ -167,12 +342,33 @@
     "fun_fact": "Titan gjuts under inert gas (vanligen argon) eftersom flytande titan annars reagerar med luft, vatten och till och med formen den gjuts i.",
     "invite_text": "Möte 16:55? Tretton grader under titans smältpunkt."
   },
+  "17:05": {
+    "label": "1705 °C",
+    "title": "Eldfast tegels gräns",
+    "description": "Högvärdigt eldfast tegel av aluminiumsilikat klarar kontinuerligt 1700 °C. Det är temperaturgränsen för de flesta industriugnars infodring innan man byter till dyrare zirkon- eller krombaserade stenar.",
+    "fun_fact": "En glasugn äter sig igenom sitt eldfasta tegel på 3 till 5 år. Tegelbytet är ofta det mest kostsamma enstaka underhåll för ett glasbruk.",
+    "invite_text": "Möte 17:05? Eldfast tegels övre gräns."
+  },
   "17:15": {
     "label": "1715 °C",
     "title": "Kvartsglas smälter",
     "description": "Rent kiseldioxidglas smälter vid cirka 1713 °C. Vid denna temperatur tappar det alla minnen av sin tidigare form och kan gjutas till linser som står emot både syra och hög hetta.",
     "fun_fact": "Halogenlampans glaskolv är kvartsglas eftersom vanligt soda-kalk-glas skulle smälta av värmen. Därför får kolven inte vidröras med fingrar, fett bränner in och försvagar glaset.",
     "invite_text": "Möte 17:15? Rent kvartsglas smältpunkt."
+  },
+  "17:28": {
+    "label": "1728 °C",
+    "title": "Platina nästan smält",
+    "description": "Platina smälter vid 1768 °C. Vid 1728 är metallen vit-glödande och extremt plastisk, men håller fortfarande formen. En laboratorians degel av platina tål nästan allt i flytande tillstånd utom vissa alkaliska smältor.",
+    "fun_fact": "Platina upptäcktes av konkvistadorer i 1500-talets Sydamerika, men Europas kemister kunde inte smälta den förrän 1782, när Lavoisier lyckades med hjälp av en nyutvecklad syrgasbrännare.",
+    "invite_text": "Möte 17:28? 40 grader under platinas smältpunkt."
+  },
+  "17:40": {
+    "label": "1740 °C",
+    "title": "Korundkeramens sinterpunkt",
+    "description": "Aluminiumoxid (korund) sintrar vid 1740 °C till en av naturens hårdaste syntetiska keramer. Samma material är grundämne i rubiner och safirer.",
+    "fun_fact": "Syntetisk korund odlas industriellt som en stor kristall, sen skärs den i skivor. Rubinlasern, världens första laser från 1960, bestod av en cylinder syntetisk rubin.",
+    "invite_text": "Möte 17:40? Korundkeramens sinterpunkt."
   },
   "17:55": {
     "label": "1755 °C",
@@ -188,12 +384,26 @@
     "fun_fact": "Tidigt fotoblixt (1887 till 1930) använde magnesiumpulver. Fotografen tände en liten hög som gav en bländande vit glödsken. Skador och bränder var vanliga.",
     "invite_text": "Möte 18:15? En magnesiumbrand i lagret."
   },
+  "18:33": {
+    "label": "1833 °C",
+    "title": "Ljusbågsugnens övertemp",
+    "description": "Modern ljusbågsugn tappar stålet vid 1650 till 1700 °C, men under raffinering kan lokala temperaturer kring elektroderna stiga mot 1830 innan syreinblåsning dämpar reaktionen.",
+    "fun_fact": "Själva ljusbågen mellan grafitelektroderna når över 3500 °C lokalt. Metallsmältan måste hållas mycket lägre, annars förångar sig hela chargen.",
+    "invite_text": "Möte 18:33? Ljusbågsugnens övertemp under raffinering."
+  },
   "18:50": {
     "label": "1850 °C",
     "title": "Kremation",
     "description": "En krematorieugn körs vanligtvis kring 800 till 1000 °C, men vid extra hetta kan temperaturen nå 1850. Vid denna värme återstår bara ben och metall.",
     "fun_fact": "Den första svenska krematorieugnen togs i bruk i Stockholm 1887. Idag kremeras drygt 80 procent av alla svenskar.",
     "invite_text": "Möte 18:50? Kremationsugnens högsta tillstånd."
+  },
+  "19:05": {
+    "label": "1905 °C",
+    "title": "Vanadins smältpunkt nära",
+    "description": "Vanadin smälter vid exakt 1910 °C. Vid 1905 är det bara fem grader under, metallen glöder vitt men står kvar i ugnen innan sista övergången.",
+    "fun_fact": "Vanadin är legeringsmetall i nästan allt högvärdigt stål. Bara 0,05 procent vanadin kan fördubbla seghet och styrka i verktygsstål.",
+    "invite_text": "Möte 19:05? Fem grader under vanadins smältpunkt."
   },
   "19:20": {
     "label": "1920 °C",
